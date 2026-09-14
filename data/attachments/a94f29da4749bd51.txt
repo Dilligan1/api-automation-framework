@@ -1,0 +1,1 @@
+http://localhost:8000/api/posts?page=1&per_page=5

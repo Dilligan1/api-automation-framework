@@ -1,0 +1,20 @@
+{
+    "id": "21f3737a-9b1c-4a71-bfc7-1c23ff11ed2c",
+    "email": "qa+12c4be4c@example.com",
+    "username": "qa_d7b0898b",
+    "display_name": "Nicole Harper",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-09-14T12:05:27.025412Z",
+    "updated_at": "2026-09-14T12:05:27.025416Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

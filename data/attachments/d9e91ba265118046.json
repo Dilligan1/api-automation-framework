@@ -1,0 +1,5 @@
+{
+    "detail": "Invalid or expired refresh token",
+    "error_code": "UNAUTHORIZED",
+    "status_code": 401
+}

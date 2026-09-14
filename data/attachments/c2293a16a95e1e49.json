@@ -1,0 +1,5 @@
+{
+    "detail": "Invalid email or password",
+    "error_code": "UNAUTHORIZED",
+    "status_code": 401
+}
