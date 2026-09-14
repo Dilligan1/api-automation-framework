@@ -55,34 +55,125 @@ tests/
 
 Поток вызова: `тест → <Domain>API → HTTPClient → SUT` и обратно `response → APIHelper._validate_response → Pydantic-модель → assert в тесте`.
 
-## Быстрый старт
+## Как запустить
+
+### Что понадобится
+
+| | |
+|---|---|
+| Python | 3.11 или новее (`python3 --version`) |
+| Docker | с плагином Compose (`docker compose version`) — нужен, чтобы поднять тестируемую систему |
+| Git | `git --version` |
+
+Allure CLI ставить необязательно: отчёт можно собрать в контейнере (см. ниже).
+
+### 1. Поднять тестируемую систему
+
+Тесты ходят в [QA Automation Sandbox](https://github.com/manikosto/qa-automation-sandbox) — она поднимается локально, снаружи ничего арендовать не нужно.
 
 ```bash
-# 1. Поднять тестируемую систему
 git clone https://github.com/manikosto/qa-automation-sandbox.git
-docker compose -f qa-automation-sandbox/docker-compose.yml up -d
-
-# 2. Настроить окружение
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env      # заполнить учётные данные seed-пользователей
-
-# 3. Прогон
-pytest -m smoke -n 4
+docker compose -f qa-automation-sandbox/docker-compose.yml up -d --build
 ```
 
-### Полезные команды
+Первая сборка занимает 2–4 минуты. Дождитесь готовности:
 
 ```bash
-pytest -m smoke                  # быстрый прогон
-pytest -m negative               # негативные сценарии
-pytest -m e2e                    # сквозные флоу по ролям
-pytest -n 4                      # параллельно (xdist)
-pytest --alluredir=allure-results && allure serve allure-results
-
-docker compose run --rm smoke    # то же в контейнере
-docker compose run --rm report   # HTML-отчёт Allure
+curl http://localhost:8000/api/health
+# {"status":"healthy","database":"connected"}
 ```
+
+Что где живёт: API — `http://localhost:8000` (Swagger на `/docs`), веб-интерфейс — `http://localhost:3000`, база — `localhost:5432`.
+
+### 2. Поставить зависимости
+
+```bash
+git clone https://github.com/Dilligan1/api-automation-framework.git
+cd api-automation-framework
+
+python3 -m venv .venv
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+### 3. Создать `.env`
+
+```bash
+cp .env.example .env
+```
+
+Файл уже содержит нужные значения по умолчанию — учётные данные seed-пользователей песочницы **публичные** (опубликованы в её README) и одинаковы у всех, так что заполнять вручную ничего не требуется. Достаточно убедиться, что заданы `EMAIL_*` / `PASSWORD_*`; по умолчанию это `alice@buzzhive.com` / `alice123` и т. д.
+
+### 4. Запустить тесты
+
+```bash
+pytest                    # всё, что есть — около 20 секунд
+```
+
+Отдельные наборы:
+
+```bash
+pytest -m smoke           # базовая работоспособность каждого сервиса
+pytest -m negative        # коды ошибок, границы, разграничение прав
+pytest -m e2e             # сквозные сценарии по ролям
+pytest -m critical        # только бизнес-критичные проверки
+```
+
+Параллельно и точечно:
+
+```bash
+pytest -n 4                                   # в 4 процесса
+pytest tests/smoke/test_posts.py              # один файл
+pytest -k "login"                             # по части имени теста
+pytest -v --tb=long                           # подробный вывод и трейсбеки
+```
+
+### 5. Посмотреть отчёт
+
+```bash
+pytest --alluredir=allure-results
+allure serve allure-results          # если Allure CLI установлен
+```
+
+Без установки Allure CLI — собрать отчёт в контейнере:
+
+```bash
+docker compose run --rm report
+open allure-report/index.html        # Linux: xdg-open
+```
+
+В отчёт попадают URL, тело запроса и тело ответа каждого вызова, а также шаги сервиса и шаги теста.
+
+### Вариант без установки Python
+
+Весь прогон целиком в контейнере:
+
+```bash
+docker compose run --rm smoke
+docker compose run --rm negative
+docker compose run --rm e2e
+docker compose run --rm report
+```
+
+### Если что-то пошло не так
+
+| Симптом | Причина и что делать |
+|---|---|
+| `Connection refused` на `localhost:8000` | Песочница не поднялась. `docker compose -f qa-automation-sandbox/docker-compose.yml logs backend` |
+| `port is already allocated` | Порты 8000/3000/5432 заняты другим процессом — освободите их или измените порты в compose песочницы и хосты в `.env` |
+| `RuntimeError: Не заданы EMAIL_… / PASSWORD_…` | Нет `.env` — вернитесь к шагу 3 |
+| Тест `test_refresh_issues_new_pair` помечен `xfail` | Это известный дефект приложения, не поломка тестов — разбор в [docs/known-issues.md](docs/known-issues.md) |
+| Данные на стенде «разъехались» | Сбросить к исходному состоянию: `curl -X POST http://localhost:8000/api/reset` |
+
+Погасить стенд, когда закончили:
+
+```bash
+docker compose -f qa-automation-sandbox/docker-compose.yml down -v
+```
+
+### Как это гоняется в CI
+
+То же самое делает GitHub Actions на каждый push, PR и по расписанию ночью: поднимает песочницу на раннере, ждёт готовности, гоняет тесты в 4 процесса и публикует отчёт. Постоянно работающий стенд не нужен — смотрите [`.github/workflows/tests.yml`](.github/workflows/tests.yml).
 
 ## Отчётность
 
@@ -94,3 +185,4 @@ docker compose run --rm report   # HTML-отчёт Allure
 - [docs/api_map.md](docs/api_map.md) — карта эндпоинтов по сервисам
 - [docs/test-plan.md](docs/test-plan.md) — уровни тестирования и что где проверяется
 - [docs/status_machine.md](docs/status_machine.md) — статусные модели сущностей
+- [docs/known-issues.md](docs/known-issues.md) — найденный дефект приложения и почему один тест в карантине
