@@ -1,10 +1,13 @@
 # API Automation Framework
 
+[![API tests](https://github.com/Dilligan1/api-automation-framework/actions/workflows/tests.yml/badge.svg)](https://github.com/Dilligan1/api-automation-framework/actions/workflows/tests.yml)
+[![Allure report](https://img.shields.io/badge/Allure-отчёт-blue)](https://dilligan1.github.io/api-automation-framework/)
+
 Фреймворк автотестов REST API на **Python + pytest + requests + Pydantic**, построенный по слоистой архитектуре service-object.
 
 Тестируемая система (SUT) — [QA Automation Sandbox](https://github.com/manikosto/qa-automation-sandbox): социальная сеть на FastAPI, 65 эндпоинтов, JWT-авторизация, 8 предустановленных пользователей с разными ролями и состояниями. Поднимается локально одной командой — прогон не зависит от доступности чужих демо-стендов.
 
-> UI-автотесты на ту же систему — в репозитории [ui-automation-framework](../ui-automation-framework).
+> UI-автотесты на ту же систему — в репозитории [ui-automation-framework](https://github.com/Dilligan1/ui-automation-framework).
 
 ---
 
@@ -83,7 +86,7 @@ docker compose run --rm report   # HTML-отчёт Allure
 
 ## Отчётность
 
-Каждый запрос попадает в Allure: URL, тело запроса, тело ответа, шаги сервиса и шаги теста. В CI отчёт публикуется на GitHub Pages (`.github/workflows/tests.yml`).
+Каждый запрос попадает в Allure: URL, тело запроса, тело ответа, шаги сервиса и шаги теста. В CI отчёт публикуется на GitHub Pages — [посмотреть последний прогон](https://dilligan1.github.io/api-automation-framework/).
 
 ## Документация
 
