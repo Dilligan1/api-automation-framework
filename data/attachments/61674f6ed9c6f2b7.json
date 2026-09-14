@@ -1,0 +1,32 @@
+{
+    "id": "937f5bfe-ed6d-4f89-b89f-3406a06247f3",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Perhaps simple pretty worker environment work write. #dinner9268",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "8270454f-1d5b-42bc-adfb-3c5591769452",
+            "name": "dinner9268",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-14T12:08:08.742186Z",
+    "updated_at": "2026-09-14T12:08:08.917202Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,38 @@
+{
+    "items": [
+        {
+            "id": "5235c9b2-853d-474f-8cd9-ee051324bac3",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "type": "comment",
+            "target_type": "post",
+            "target_id": "5aaf772d-e295-475d-986e-bcf9973d57de",
+            "is_read": false,
+            "created_at": "2026-09-14T12:08:08.308679Z"
+        },
+        {
+            "id": "0b02a209-98f7-485b-ac2d-f860f7875e56",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "5aaf772d-e295-475d-986e-bcf9973d57de",
+            "is_read": false,
+            "created_at": "2026-09-14T12:08:08.002985Z"
+        }
+    ],
+    "total": 2,
+    "page": 1,
+    "per_page": 20,
+    "pages": 1
+}
