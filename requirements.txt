@@ -1,0 +1,25 @@
+# === Core Testing ===
+pytest==8.4.2
+pytest-xdist==3.8.0
+pytest-rerunfailures==16.0.1
+
+# === HTTP ===
+requests==2.32.3
+
+# === Validation ===
+pydantic[email]==2.11.7
+
+# === Reporting ===
+allure-pytest==2.15.0
+
+# === Test Data ===
+Faker==37.8.0
+
+# === Configuration ===
+python-dotenv==1.1.1
+
+# === Parallel-safe token cache ===
+filelock==3.16.1
+
+# === Database ===
+psycopg2-binary==2.9.10

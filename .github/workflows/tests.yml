@@ -1,0 +1,118 @@
+name: API tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    # Ночной прогон — ловим деградации без ручного запуска
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+env:
+  STAGE: local
+  API_HOST_LOCAL: http://localhost:8000
+  RESET_BEFORE_RUN: "true"
+
+  # Учётные данные тестируемой песочницы. Это НЕ секреты: песочница —
+  # учебный стенд, её логины и пароли опубликованы в собственном README
+  # проекта и одинаковы у всех. Поэтому они лежат в открытом виде — прогон
+  # запускается с форка и без настройки Secrets.
+  EMAIL_ADMIN: admin@buzzhive.com
+  PASSWORD_ADMIN: admin123
+  EMAIL_MODERATOR: mod@buzzhive.com
+  PASSWORD_MODERATOR: mod123
+  EMAIL_ACTIVE: alice@buzzhive.com
+  PASSWORD_ACTIVE: alice123
+  EMAIL_MEDIA: bob@buzzhive.com
+  PASSWORD_MEDIA: bob123
+  EMAIL_LONGREAD: carol@buzzhive.com
+  PASSWORD_LONGREAD: carol123
+  EMAIL_PRIVATE: dave@buzzhive.com
+  PASSWORD_PRIVATE: dave123
+  EMAIL_EMPTY: eve@buzzhive.com
+  PASSWORD_EMPTY: eve123
+  EMAIL_BANNED: frank@buzzhive.com
+  PASSWORD_BANNED: frank123
+
+  USERNAME_ADMIN: admin
+  USERNAME_MODERATOR: moderator
+  USERNAME_ACTIVE: alice_dev
+  USERNAME_MEDIA: bob_photo
+  USERNAME_LONGREAD: carol_writes
+  USERNAME_PRIVATE: dave_quiet
+  USERNAME_EMPTY: eve_new
+  USERNAME_BANNED: frank_banned
+
+  DB_HOST_LOCAL: localhost
+  DB_PORT_LOCAL: "5432"
+  DB_NAME_LOCAL: buzzhive
+  DB_USER_LOCAL: buzzhive_user
+  DB_PASSWORD_LOCAL: buzzhive_password
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Поднять тестируемую систему
+        run: |
+          git clone --depth 1 https://github.com/manikosto/qa-automation-sandbox.git sut
+          docker compose -f sut/docker-compose.yml up -d --build
+
+      - name: Дождаться готовности API
+        run: |
+          # Ждём по признаку готовности, а не фиксированным sleep
+          for i in $(seq 1 90); do
+            if curl -fsS http://localhost:8000/api/health | grep -q healthy; then
+              echo "Стенд готов"; exit 0
+            fi
+            sleep 2
+          done
+          echo "Стенд не поднялся за 3 минуты"; docker compose -f sut/docker-compose.yml logs --tail=50; exit 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Установить зависимости
+        run: pip install -r requirements.txt
+
+      - name: Прогон тестов
+        run: pytest -v -n 4 --alluredir=allure-results
+
+      - name: Логи стенда при падении
+        if: failure()
+        run: docker compose -f sut/docker-compose.yml logs --tail=100 backend
+
+      - name: Сохранить результаты Allure
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: allure-results
+          path: allure-results
+          retention-days: 14
+
+      - name: Собрать Allure-отчёт с историей
+        if: always()
+        uses: simple-elf/allure-report-action@v1.12
+        with:
+          allure_results: allure-results
+          allure_history: allure-history
+          keep_reports: 20
+
+      - name: Опубликовать отчёт на GitHub Pages
+        if: always() && github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: allure-history

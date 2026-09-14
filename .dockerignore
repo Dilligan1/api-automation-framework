@@ -1,0 +1,9 @@
+.venv
+.git
+.env
+.token_cache
+allure-results
+allure-report
+__pycache__
+.pytest_cache
+.idea

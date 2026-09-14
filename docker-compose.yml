@@ -1,0 +1,56 @@
+name: api-automation
+
+# Общая конфигурация тестовых сервисов — build/env/volumes не дублируются.
+# Сервисы ниже отличаются только маркером pytest (-m) в command.
+x-test-base: &test-base
+  build:
+    context: .
+    dockerfile: Dockerfile
+  image: api-automation:latest
+  # Локально читает .env; в CI переменные приходят из окружения (секреты pipeline)
+  env_file:
+    - path: .env
+      required: false
+  environment:
+    STAGE: ${STAGE:-local}
+    THREADS: ${THREADS:-5}
+    # Тестируемая песочница поднимается отдельно; из контейнера она доступна
+    # по host.docker.internal, а не по localhost
+    API_HOST_LOCAL: ${API_HOST_LOCAL:-http://host.docker.internal:8000}
+  extra_hosts:
+    - "host.docker.internal:host-gateway"
+  volumes:
+    # Живой код с хоста поверх образа — правки видны без пересборки
+    - ./:/app
+    - ./allure-results:/app/allure-results
+  tty: true
+
+services:
+  # По маркерам pytest.ini. Запуск: docker compose run --rm smoke
+  smoke:
+    <<: *test-base
+    command: >
+      sh -c "pytest -sv -o log_cli=true -n=$$THREADS -m=smoke --alluredir=allure-results"
+
+  negative:
+    <<: *test-base
+    command: >
+      sh -c "pytest -sv -o log_cli=true -n=$$THREADS -m=negative --alluredir=allure-results"
+
+  e2e:
+    <<: *test-base
+    command: >
+      sh -c "pytest -sv -o log_cli=true -n=$$THREADS -m=e2e --alluredir=allure-results"
+
+  regression:
+    <<: *test-base
+    command: >
+      sh -c "pytest -sv -o log_cli=true -n=$$THREADS -m=regression --alluredir=allure-results"
+
+  # Запускать после любого тестового сервиса: docker compose run --rm report
+  report:
+    image: api-automation:latest
+    volumes:
+      - ./allure-results:/app/allure-results
+      - ./allure-report:/app/allure-report
+    command: sh -c "allure generate allure-results --clean -o allure-report"
