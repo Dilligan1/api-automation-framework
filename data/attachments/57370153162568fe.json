@@ -1,5 +1,0 @@
-{
-    "detail": "User with this email or username already exists",
-    "error_code": "CONFLICT",
-    "status_code": 409
-}
