@@ -1,0 +1,32 @@
+{
+    "id": "762fe95f-28b8-4d20-96c5-a2acefcafc3d",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Partner result blood thus against present watch report husband. #building2216",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "2b2be44d-11f5-41fe-89c3-ee151a34256e",
+            "name": "building2216",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-14T12:24:34.259565Z",
+    "updated_at": "2026-09-14T12:24:34.736111Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

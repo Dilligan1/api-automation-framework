@@ -1,0 +1,19 @@
+{
+    "id": "3a75fccf-49e7-43d1-8231-a5c3c0dea47d",
+    "post_id": "37aa1388-5fe0-4c24-904d-3d781a6f3bfb",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Weight class serve term wide.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-14T12:24:34.958756Z",
+    "updated_at": "2026-09-14T12:24:34.958759Z",
+    "is_liked": false,
+    "replies_count": 0
+}
