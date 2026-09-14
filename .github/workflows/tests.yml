@@ -4,10 +4,35 @@ on:
   push:
     branches: [main]
   pull_request:
-  workflow_dispatch:
   schedule:
     # Ночной прогон — ловим деградации без ручного запуска
     - cron: "0 2 * * *"
+
+  # Запуск по кнопке «Run workflow» на вкладке Actions.
+  # Параметры ниже превращают кнопку в форму: можно выбрать набор тестов
+  # и степень параллельности, не трогая код.
+  workflow_dispatch:
+    inputs:
+      suite:
+        description: "Какие тесты прогнать"
+        type: choice
+        default: all
+        options:
+          - all
+          - smoke
+          - negative
+          - e2e
+          - regression
+          - critical
+      threads:
+        description: "Сколько процессов (1 — последовательно)"
+        type: choice
+        default: "4"
+        options: ["1", "2", "4", "8"]
+      reset_stand:
+        description: "Сбросить стенд к исходным данным перед прогоном"
+        type: boolean
+        default: true
 
 # contents: write нужен, чтобы опубликовать Allure-отчёт в ветку gh-pages:
 # с правом read токен прогона получает 403 на push
@@ -89,7 +114,30 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Прогон тестов
-        run: pytest -v -n 4 --alluredir=allure-results
+        env:
+          # Для push/PR/расписания inputs пустые — подставляем значения по умолчанию
+          SUITE: ${{ github.event.inputs.suite || 'all' }}
+          THREADS: ${{ github.event.inputs.threads || '4' }}
+          RESET_BEFORE_RUN: ${{ github.event.inputs.reset_stand || 'true' }}
+        run: |
+          MARKER=""
+          if [ "$SUITE" != "all" ]; then MARKER="-m $SUITE"; fi
+          echo "Набор: $SUITE | процессов: $THREADS | сброс стенда: $RESET_BEFORE_RUN"
+          pytest -v -n "$THREADS" $MARKER --alluredir=allure-results
+
+      - name: Итог прогона в сводке
+        if: always()
+        env:
+          SUITE: ${{ github.event.inputs.suite || 'all' }}
+        run: |
+          # Короткая сводка на странице прогона — видно результат без чтения логов
+          {
+            echo "### Прогон API-тестов"
+            echo ""
+            echo "- Набор: \`$SUITE\`"
+            echo "- Результат: ${{ job.status }}"
+            echo "- [Allure-отчёт](https://dilligan1.github.io/api-automation-framework/)"
+          } >> "$GITHUB_STEP_SUMMARY"
 
       - name: Логи стенда при падении
         if: failure()
