@@ -1,0 +1,20 @@
+{
+    "id": "489ed319-9975-4a7c-81c1-f5727ed7afb6",
+    "email": "qa+a7200a39@example.com",
+    "username": "qa_b70fa649",
+    "display_name": "Jessica Peterson",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-09-14T12:13:12.979639Z",
+    "updated_at": "2026-09-14T12:13:12.979644Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

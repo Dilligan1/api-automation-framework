@@ -1,0 +1,19 @@
+{
+    "id": "89f19c00-c15b-4a39-9b42-73a35d364e15",
+    "post_id": "103e9d04-291c-4072-8e0e-47efcb26b2f2",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Order entire certainly probably stop degree capital.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-14T12:13:13.209004Z",
+    "updated_at": "2026-09-14T12:13:13.209006Z",
+    "is_liked": false,
+    "replies_count": 0
+}
