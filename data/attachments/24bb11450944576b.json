@@ -1,0 +1,16 @@
+{
+    "detail": [
+        {
+            "type": "string_too_short",
+            "loc": [
+                "body",
+                "password"
+            ],
+            "msg": "String should have at least 6 characters",
+            "input": "12345",
+            "ctx": {
+                "min_length": 6
+            }
+        }
+    ]
+}

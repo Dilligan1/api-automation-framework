@@ -1,0 +1,19 @@
+{
+    "id": "abd3c651-8873-4d77-b25b-ff96222af6ca",
+    "post_id": "c7e75846-a381-4d5c-995b-3e09916d8230",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Paper her which choice pick.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-15T07:11:10.788047Z",
+    "updated_at": "2026-09-15T07:11:10.788049Z",
+    "is_liked": false,
+    "replies_count": 0
+}

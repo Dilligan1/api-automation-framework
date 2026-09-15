@@ -1,0 +1,32 @@
+{
+    "id": "c66fb2f6-a0b9-474c-9277-984c59d182ca",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Culture as important team close allow them possible direction raise consumer remain. #tree1983",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "d363672e-7ca2-4eeb-9297-5ffcf86210af",
+            "name": "music4503",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-15T07:11:10.477002Z",
+    "updated_at": "2026-09-15T07:11:11.356989Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

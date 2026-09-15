@@ -1,0 +1,19 @@
+{
+    "id": "234f3963-81fa-45a3-9c28-def768dc5e25",
+    "post_id": "c66fb2f6-a0b9-474c-9277-984c59d182ca",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Because clearly reduce piece.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-15T07:11:11.032052Z",
+    "updated_at": "2026-09-15T07:11:11.032053Z",
+    "is_liked": false,
+    "replies_count": 0
+}
