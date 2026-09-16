@@ -1,0 +1,19 @@
+{
+    "id": "30db1c9f-52c7-4c9f-a71c-f8057946ed85",
+    "post_id": "1ac63d1e-7d75-45cc-9dbc-03c0d24e2065",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Leader water surface move.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-16T07:13:14.322146Z",
+    "updated_at": "2026-09-16T07:13:14.322149Z",
+    "is_liked": false,
+    "replies_count": 0
+}

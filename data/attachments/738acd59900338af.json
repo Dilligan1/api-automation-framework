@@ -1,0 +1,19 @@
+{
+    "id": "e48c75f2-1607-4f1a-a3d0-0e2815591109",
+    "follower": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "following": {
+        "id": "00000000-0000-0000-0000-000000000006",
+        "username": "dave_quiet",
+        "display_name": "Dave Quiet",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "status": "pending",
+    "created_at": "2026-09-16T07:13:14.871715Z"
+}

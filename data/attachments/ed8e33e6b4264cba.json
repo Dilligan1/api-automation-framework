@@ -1,0 +1,12 @@
+{
+    "id": "72598cb9-a005-4975-a88c-b1b9cafe74fd",
+    "user": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "reaction": "love",
+    "created_at": "2026-09-16T07:13:13.735156Z"
+}

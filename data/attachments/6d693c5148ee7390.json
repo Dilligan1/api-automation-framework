@@ -1,0 +1,32 @@
+{
+    "id": "d586f055-6ce6-4d9c-a975-346b2b23035e",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Film cost tend sister specific actually score start consumer about. #model202",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "3868f4c6-94c3-4b0b-a961-886c1ca802ae",
+            "name": "model202",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-16T07:13:14.739493Z",
+    "updated_at": "2026-09-16T07:13:14.739495Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,19 @@
+{
+    "id": "b52e5384-8ca1-4043-bd52-2b70ceadcb48",
+    "post_id": "e1901c96-8477-47ef-a38f-bbc7050c31cf",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Food network attention we return stock fear husband wind.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-16T07:13:14.320543Z",
+    "updated_at": "2026-09-16T07:13:14.320545Z",
+    "is_liked": false,
+    "replies_count": 0
+}
