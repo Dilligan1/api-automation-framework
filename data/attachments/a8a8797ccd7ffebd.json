@@ -1,0 +1,32 @@
+{
+    "id": "a7813b75-fe7f-43a9-b90b-be7e56f9b053",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Soldier arm yourself population final PM country could. #southern965",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "71078c96-0106-475f-b3b1-9219c5929cb2",
+            "name": "southern965",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-17T07:09:46.157294Z",
+    "updated_at": "2026-09-17T07:09:46.157296Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

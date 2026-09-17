@@ -1,0 +1,20 @@
+{
+    "id": "d15c05d1-c69e-4c05-bd71-ac060c49ddb6",
+    "email": "qa+7fee7e62@example.com",
+    "username": "qa_aebc9c22",
+    "display_name": "Sarah Lee",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-09-17T07:09:46.859941Z",
+    "updated_at": "2026-09-17T07:09:46.859947Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

@@ -1,78 +1,5 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","15","tests.negative","test_posts_negative","TestPostsNegative","","","POST /api/posts — текст длиннее 2000 символов отклоняется (422)","
-Шаги:
-1. Создать пост с текстом на 1 символ длиннее лимита
-
-Ожидаемый результат: HTTP 422 Unprocessable Entity
-"
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","22","tests.negative","test_admin_negative","TestAdminAccessNegative","","","GET /api/admin/users — обычному пользователю запрещено (403)","Ожидаемый результат: HTTP 403 Forbidden."
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","1068","tests.e2e.user_private","test_full_flow","TestPrivateUserFullFlow","","","test_full_flow","
-Сквозной сценарий социального взаимодействия.
-
-Шаги:
-1. Автор публикует пост
-2. Читатель ставит реакцию
-3. Читатель комментирует пост
-4. Автор видит рост счётчиков на своём посте
-5. Автору приходит уведомление
-6. Автор редактирует пост (в пределах 15-минутного окна)
-7. Автор удаляет пост — стенд остаётся чистым
-
-Ожидаемый результат: каждый этап отрабатывает штатно,
-счётчики и уведомления консистентны действиям читателя.
-"
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","293","tests.smoke","test_auth","TestAuthSmoke","","","POST /api/auth/login — выдаётся пара токенов","
-Используется пользователь LONGREAD: под ним не логинится ни одна
-фикстура, поэтому явный вход в тесте не сталкивается с логином
-TokenProvider в ту же секунду (см. BUG-001 в docs/known-issues.md).
-
-Шаги:
-1. Взять учётные данные seed-пользователя LONGREAD
-2. Залогиниться
-
-Ожидаемый результат:
-- HTTP 200 OK
-- непустые access_token и refresh_token
-- token_type == ""bearer""
-"
-"passed","Wed Sep 16 07:13:12 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","897","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/login — неверный пароль отклоняется (401)","
-Шаги:
-1. Взять существующий email и заведомо неверный пароль
-2. Попытаться залогиниться
-
-Ожидаемый результат:
-- HTTP 401 Unauthorized, токен не выдан
-"
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","148","tests.smoke","test_posts","TestPostsSmoke","","","POST /api/posts — пост создаётся и доступен по id","
-Шаги:
-1. Создать пост со сгенерированным текстом
-2. Прочитать его по id
-3. Удалить (тест не оставляет мусор на общем стенде)
-
-Ожидаемый результат:
-- HTTP 201 при создании, текст совпадает с отправленным
-- HTTP 200 при чтении, id совпадает
-"
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","17","tests.smoke","test_auth","TestAuthSmoke","","","GET /api/auth/me — профиль соответствует владельцу токена","
-Шаги:
-1. Запросить профиль по access-токену пользователя ACTIVE
-
-Ожидаемый результат:
-- HTTP 200 OK
-- email профиля совпадает с email из учётных данных
-"
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","33","tests.negative","test_admin_negative","TestAdminAccessNegative","","","GET /api/admin/stats — обычному пользователю запрещено (403)","
-Шаги:
-1. Запросить админскую статистику токеном обычного пользователя
-
-Ожидаемый результат: HTTP 403 Forbidden
-"
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","8","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/register — короткий пароль отклоняется (422)","
-Пароль короче 6 символов не проходит валидацию Pydantic на бэкенде.
-
-Ожидаемый результат: HTTP 422 Unprocessable Entity
-"
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","362","tests.negative","test_posts_negative","TestPostsNegative","","","PATCH /api/posts/{id} — редактирование чужого поста запрещено (403)","
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","402","tests.negative","test_posts_negative","TestPostsNegative","","","PATCH /api/posts/{id} — редактирование чужого поста запрещено (403)","
 Шаги:
 1. Пользователь MEDIA создаёт пост
 2. Пользователь ACTIVE пытается его отредактировать
@@ -80,7 +7,7 @@ TokenProvider в ту же секунду (см. BUG-001 в docs/known-issues.md
 
 Ожидаемый результат: HTTP 403 Forbidden
 "
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","299","tests.smoke","test_auth","TestAuthSmoke","","","POST /api/auth/register — новый пользователь создаётся","
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","329","tests.smoke","test_auth","TestAuthSmoke","","","POST /api/auth/register — новый пользователь создаётся","
 Шаги:
 1. Сгенерировать данные нового пользователя
 2. Зарегистрировать его
@@ -91,35 +18,15 @@ TokenProvider в ту же секунду (см. BUG-001 в docs/known-issues.md
 - email/username в ответе совпадают с отправленными
 - роль по умолчанию — user, аккаунт активен
 "
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","29","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/register — занятый email отклоняется (409)","
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","13","tests.smoke","test_auth","TestAuthSmoke","","","GET /api/auth/me — профиль соответствует владельцу токена","
 Шаги:
-1. Взять email существующего seed-пользователя
-2. Попытаться зарегистрировать на него нового пользователя
-
-Ожидаемый результат: HTTP 409 Conflict с error_code=CONFLICT
-"
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","9","tests.smoke","test_system","TestSystemSmoke","","","GET /api/health — стенд и БД доступны","
-Шаги:
-1. Запросить health-check стенда
+1. Запросить профиль по access-токену пользователя ACTIVE
 
 Ожидаемый результат:
 - HTTP 200 OK
-- status == ""healthy""
-- database == ""connected""
+- email профиля совпадает с email из учётных данных
 "
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","184","tests.smoke","test_posts","TestPostsSmoke","","","GET /api/posts/feed — персональная лента отдаётся","
-Шаги:
-1. Запросить персональную ленту подписок
-
-Ожидаемый результат:
-- HTTP 200 OK
-- конверт пагинации корректен (лента может быть пустой — это валидно)
-"
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","273","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/login — несуществующий email отклоняется (401)","
-Ожидаемый результат: HTTP 401 — тот же код, что и при неверном пароле
-(сервис не должен раскрывать, существует ли аккаунт).
-"
-"skipped","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","29","tests.smoke","test_auth","TestAuthSmoke","","","POST /api/auth/refresh — по refresh-токену выдаётся новая пара","
+"skipped","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","33","tests.smoke","test_auth","TestAuthSmoke","","","POST /api/auth/refresh — по refresh-токену выдаётся новая пара","
 Шаги:
 1. Взять refresh-токен пользователя MEDIA (не ACTIVE — чтобы не инвалидировать
    токен, которым пользуются остальные тесты прогона)
@@ -133,27 +40,20 @@ TokenProvider в ту же секунду (см. BUG-001 в docs/known-issues.md
 секунды, сервис генерирует идентичный токен и падает с 500.
 Тест помечен xfail нестрого — при разнесении вызовов во времени проходит.
 "
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","322","tests.smoke","test_posts","TestPostsSmoke","","","GET /api/posts — список постов отдаётся с корректной пагинацией","
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","23","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/register — занятый email отклоняется (409)","
 Шаги:
-1. Запросить первую страницу постов (per_page=5)
+1. Взять email существующего seed-пользователя
+2. Попытаться зарегистрировать на него нового пользователя
 
-Ожидаемый результат:
-- HTTP 200 OK
-- page == 1, per_page == 5
-- items не больше per_page
+Ожидаемый результат: HTTP 409 Conflict с error_code=CONFLICT
 "
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","242","tests.e2e.user_private","test_private_follow_flow","TestPrivateFollowFlow","","","E2E: подписка на приватный аккаунт подтверждается владельцем","
-Шаги:
-1. ACTIVE подписывается на приватный аккаунт PRIVATE
-2. Подписка создаётся в статусе pending
-3. Владелец приватного аккаунта видит входящий запрос
-4. Владелец подтверждает запрос — статус становится accepted
-5. ACTIVE отписывается, состояние стенда восстанавливается
-
-Ожидаемый результат: статусы меняются строго pending → accepted,
-запрос виден владельцу до подтверждения.
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","7","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/refresh — мусорный refresh-токен отклоняется (401)","Ожидаемый результат: HTTP 401 Unauthorized."
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","22","tests.negative","test_admin_negative","TestAdminAccessNegative","","","GET /api/admin/users — обычному пользователю запрещено (403)","Ожидаемый результат: HTTP 403 Forbidden."
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","24","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/login — несуществующий email отклоняется (401)","
+Ожидаемый результат: HTTP 401 — тот же код, что и при неверном пароле
+(сервис не должен раскрывать, существует ли аккаунт).
 "
-"passed","Wed Sep 16 07:13:14 UTC 2026","Wed Sep 16 07:13:15 UTC 2026","258","tests.e2e.user_active","test_full_flow","TestActiveUserFullFlow","","","test_full_flow","
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","1497","tests.e2e.admin","test_full_flow","TestAdminFullFlow","","","test_full_flow","
 Сквозной сценарий социального взаимодействия.
 
 Шаги:
@@ -168,9 +68,60 @@ TokenProvider в ту же секунду (см. BUG-001 в docs/known-issues.md
 Ожидаемый результат: каждый этап отрабатывает штатно,
 счётчики и уведомления консистентны действиям читателя.
 "
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","287","tests.negative","test_posts_negative","TestPostsNegative","","","GET /api/posts/{id} — несуществующий пост отдаёт 404","Ожидаемый результат: HTTP 404 Not Found, а не 500."
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","17","tests.negative","test_posts_negative","TestPostsNegative","","","POST /api/posts — пустой текст отклоняется (422)","Ожидаемый результат: HTTP 422 — content имеет min_length=1."
-"passed","Wed Sep 16 07:13:12 UTC 2026","Wed Sep 16 07:13:12 UTC 2026","14","tests.negative","test_admin_negative","TestAdminAccessNegative","","","GET /api/admin/stats — без токена запрещено (403)","
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","335","tests.negative","test_admin_negative","TestAdminAccessNegative","","","GET /api/admin/stats — обычному пользователю запрещено (403)","
+Шаги:
+1. Запросить админскую статистику токеном обычного пользователя
+
+Ожидаемый результат: HTTP 403 Forbidden
+"
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","9","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/register — короткий пароль отклоняется (422)","
+Пароль короче 6 символов не проходит валидацию Pydantic на бэкенде.
+
+Ожидаемый результат: HTTP 422 Unprocessable Entity
+"
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","348","tests.smoke","test_posts","TestPostsSmoke","","","GET /api/posts — список постов отдаётся с корректной пагинацией","
+Шаги:
+1. Запросить первую страницу постов (per_page=5)
+
+Ожидаемый результат:
+- HTTP 200 OK
+- page == 1, per_page == 5
+- items не больше per_page
+"
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:47 UTC 2026","164","tests.smoke","test_posts","TestPostsSmoke","","","POST /api/posts — пост создаётся и доступен по id","
+Шаги:
+1. Создать пост со сгенерированным текстом
+2. Прочитать его по id
+3. Удалить (тест не оставляет мусор на общем стенде)
+
+Ожидаемый результат:
+- HTTP 201 при создании, текст совпадает с отправленным
+- HTTP 200 при чтении, id совпадает
+"
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","16","tests.negative","test_posts_negative","TestPostsNegative","","","POST /api/posts — текст длиннее 2000 символов отклоняется (422)","
+Шаги:
+1. Создать пост с текстом на 1 символ длиннее лимита
+
+Ожидаемый результат: HTTP 422 Unprocessable Entity
+"
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:47 UTC 2026","207","tests.smoke","test_posts","TestPostsSmoke","","","GET /api/posts/feed — персональная лента отдаётся","
+Шаги:
+1. Запросить персональную ленту подписок
+
+Ожидаемый результат:
+- HTTP 200 OK
+- конверт пагинации корректен (лента может быть пустой — это валидно)
+"
+"passed","Thu Sep 17 07:09:47 UTC 2026","Thu Sep 17 07:09:47 UTC 2026","16","tests.smoke","test_system","TestSystemSmoke","","","GET /api/health — стенд и БД доступны","
+Шаги:
+1. Запросить health-check стенда
+
+Ожидаемый результат:
+- HTTP 200 OK
+- status == ""healthy""
+- database == ""connected""
+"
+"passed","Thu Sep 17 07:09:44 UTC 2026","Thu Sep 17 07:09:44 UTC 2026","15","tests.negative","test_admin_negative","TestAdminAccessNegative","","","GET /api/admin/stats — без токена запрещено (403)","
 Анонимный клиент не должен попадать в админку.
 
 Бэкенд на FastAPI отдаёт здесь 403 ""Not authenticated"", а не 401:
@@ -178,8 +129,57 @@ TokenProvider в ту же секунду (см. BUG-001 в docs/known-issues.md
 заголовке Authorization. Ожидание зафиксировано по фактическому
 поведению сервиса.
 "
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:13 UTC 2026","8","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/refresh — мусорный refresh-токен отклоняется (401)","Ожидаемый результат: HTTP 401 Unauthorized."
-"passed","Wed Sep 16 07:13:13 UTC 2026","Wed Sep 16 07:13:14 UTC 2026","1088","tests.e2e.admin","test_full_flow","TestAdminFullFlow","","","test_full_flow","
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","319","tests.negative","test_posts_negative","TestPostsNegative","","","GET /api/posts/{id} — несуществующий пост отдаёт 404","Ожидаемый результат: HTTP 404 Not Found, а не 500."
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","17","tests.negative","test_posts_negative","TestPostsNegative","","","POST /api/posts — пустой текст отклоняется (422)","Ожидаемый результат: HTTP 422 — content имеет min_length=1."
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:47 UTC 2026","274","tests.e2e.user_active","test_full_flow","TestActiveUserFullFlow","","","test_full_flow","
+Сквозной сценарий социального взаимодействия.
+
+Шаги:
+1. Автор публикует пост
+2. Читатель ставит реакцию
+3. Читатель комментирует пост
+4. Автор видит рост счётчиков на своём посте
+5. Автору приходит уведомление
+6. Автор редактирует пост (в пределах 15-минутного окна)
+7. Автор удаляет пост — стенд остаётся чистым
+
+Ожидаемый результат: каждый этап отрабатывает штатно,
+счётчики и уведомления консистентны действиям читателя.
+"
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","325","tests.smoke","test_auth","TestAuthSmoke","","","POST /api/auth/login — выдаётся пара токенов","
+Используется пользователь LONGREAD: под ним не логинится ни одна
+фикстура, поэтому явный вход в тесте не сталкивается с логином
+TokenProvider в ту же секунду (см. BUG-001 в docs/known-issues.md).
+
+Шаги:
+1. Взять учётные данные seed-пользователя LONGREAD
+2. Залогиниться
+
+Ожидаемый результат:
+- HTTP 200 OK
+- непустые access_token и refresh_token
+- token_type == ""bearer""
+"
+"passed","Thu Sep 17 07:09:44 UTC 2026","Thu Sep 17 07:09:45 UTC 2026","1310","tests.negative","test_auth_negative","TestAuthNegative","","","POST /api/auth/login — неверный пароль отклоняется (401)","
+Шаги:
+1. Взять существующий email и заведомо неверный пароль
+2. Попытаться залогиниться
+
+Ожидаемый результат:
+- HTTP 401 Unauthorized, токен не выдан
+"
+"passed","Thu Sep 17 07:09:46 UTC 2026","Thu Sep 17 07:09:47 UTC 2026","271","tests.e2e.user_private","test_private_follow_flow","TestPrivateFollowFlow","","","E2E: подписка на приватный аккаунт подтверждается владельцем","
+Шаги:
+1. ACTIVE подписывается на приватный аккаунт PRIVATE
+2. Подписка создаётся в статусе pending
+3. Владелец приватного аккаунта видит входящий запрос
+4. Владелец подтверждает запрос — статус становится accepted
+5. ACTIVE отписывается, состояние стенда восстанавливается
+
+Ожидаемый результат: статусы меняются строго pending → accepted,
+запрос виден владельцу до подтверждения.
+"
+"passed","Thu Sep 17 07:09:45 UTC 2026","Thu Sep 17 07:09:46 UTC 2026","1460","tests.e2e.user_private","test_full_flow","TestPrivateUserFullFlow","","","test_full_flow","
 Сквозной сценарий социального взаимодействия.
 
 Шаги:

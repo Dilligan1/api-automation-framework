@@ -1,0 +1,32 @@
+{
+    "id": "e89c1d04-fb6c-4888-8ccb-9a9f36a62cf2",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Scene arm eye risk sense people store authority within almost word. #improve5047",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "897eab75-3578-41c2-88fa-8aec689711b0",
+            "name": "cover3483",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-17T07:09:46.935695Z",
+    "updated_at": "2026-09-17T07:09:47.172094Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
