@@ -1,0 +1,32 @@
+{
+    "id": "9312ad24-57cd-4a93-8088-36a316a67bbc",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Resource street and institution get point very manager. #manager6217",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "3695475f-d0d5-44b8-ac71-2e9dc39ae9e5",
+            "name": "manager6217",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-18T07:02:32.969608Z",
+    "updated_at": "2026-09-18T07:02:32.969611Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

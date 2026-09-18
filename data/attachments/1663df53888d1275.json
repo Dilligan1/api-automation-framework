@@ -1,0 +1,19 @@
+{
+    "id": "3dcfedcf-f318-4626-8edb-b292b1443716",
+    "post_id": "9312ad24-57cd-4a93-8088-36a316a67bbc",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Force free career grow outside one hotel.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-18T07:02:33.089771Z",
+    "updated_at": "2026-09-18T07:02:33.089774Z",
+    "is_liked": false,
+    "replies_count": 0
+}
