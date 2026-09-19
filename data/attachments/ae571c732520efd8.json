@@ -1,0 +1,19 @@
+{
+    "id": "43687bff-68f0-4593-8ab1-537bfba22513",
+    "post_id": "3c2027a6-b65b-4fee-8248-5f8eb05237c5",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "More beyond improve race education side candidate spring you.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-19T07:01:56.655134Z",
+    "updated_at": "2026-09-19T07:01:56.655137Z",
+    "is_liked": false,
+    "replies_count": 0
+}

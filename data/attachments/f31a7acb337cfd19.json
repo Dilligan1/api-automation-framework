@@ -1,0 +1,19 @@
+{
+    "id": "ab5a241a-92ca-49c7-b6b8-6d96d86c38c9",
+    "post_id": "758ce208-e3b8-4a06-a9af-0738c75d976c",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Happy but moment care factor Republican real choice mother.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-19T07:01:57.256387Z",
+    "updated_at": "2026-09-19T07:01:57.256389Z",
+    "is_liked": false,
+    "replies_count": 0
+}
