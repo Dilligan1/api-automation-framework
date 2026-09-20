@@ -1,0 +1,19 @@
+{
+    "id": "df14ead4-9d0c-4337-8e6e-7c45612088e9",
+    "post_id": "677bb6fb-6d91-431c-ad4f-64e95bfb6060",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Seem medical why my actually.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-20T07:26:55.464716Z",
+    "updated_at": "2026-09-20T07:26:55.464718Z",
+    "is_liked": false,
+    "replies_count": 0
+}

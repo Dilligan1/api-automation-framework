@@ -1,0 +1,19 @@
+{
+    "id": "4a0c8ab9-2713-40d4-8ff3-56689da72f91",
+    "post_id": "1e4dcb28-f230-42aa-8320-c17e88aa1ed1",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Anything anything magazine every system director guess.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-20T07:26:55.964491Z",
+    "updated_at": "2026-09-20T07:26:55.964493Z",
+    "is_liked": false,
+    "replies_count": 0
+}

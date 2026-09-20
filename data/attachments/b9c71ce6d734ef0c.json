@@ -1,0 +1,20 @@
+{
+    "id": "e164cec5-2f55-497f-af1e-e53bc3986f32",
+    "email": "qa+8835d966@example.com",
+    "username": "qa_b92aa506",
+    "display_name": "Virginia Castro",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-09-20T07:26:55.430880Z",
+    "updated_at": "2026-09-20T07:26:55.430885Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

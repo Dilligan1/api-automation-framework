@@ -1,0 +1,32 @@
+{
+    "id": "677bb6fb-6d91-431c-ad4f-64e95bfb6060",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Company old training institution stand role television push participant serve ask clear board ever draw cultural. #church299",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "159f6821-89ae-42b5-9ff9-1505ab36e3d4",
+            "name": "building2235",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-20T07:26:54.931264Z",
+    "updated_at": "2026-09-20T07:26:55.777037Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

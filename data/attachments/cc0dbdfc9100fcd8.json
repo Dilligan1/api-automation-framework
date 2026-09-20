@@ -1,0 +1,32 @@
+{
+    "id": "9f58c6aa-33c0-4bc0-bc59-584508be0f78",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Force Mr nothing part sure fight subject. #war4558",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "fe5f69cd-62f8-488e-bba4-0b15ea7bc948",
+            "name": "war4558",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-20T07:26:55.774688Z",
+    "updated_at": "2026-09-20T07:26:55.774690Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
