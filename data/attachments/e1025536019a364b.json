@@ -1,0 +1,19 @@
+{
+    "id": "5ed7bc55-fff4-4dd1-9873-a36f32b1c893",
+    "post_id": "241c7dec-cf3b-4c4d-affd-946ec6ae98d0",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Cell know factor option without answer head.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-21T07:37:35.761634Z",
+    "updated_at": "2026-09-21T07:37:35.761636Z",
+    "is_liked": false,
+    "replies_count": 0
+}

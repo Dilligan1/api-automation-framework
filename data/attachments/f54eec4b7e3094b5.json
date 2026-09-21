@@ -1,0 +1,32 @@
+{
+    "id": "0bf0a1ec-bb10-47d6-9d58-70d611fac16d",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Per garden body scientist cell face above color space admit turn maybe reveal. #sell6463",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "43044b4f-c5f5-4da5-99d1-3118974018de",
+            "name": "sell6463",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-21T07:37:36.473352Z",
+    "updated_at": "2026-09-21T07:37:36.473355Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

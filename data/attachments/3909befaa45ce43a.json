@@ -1,0 +1,32 @@
+{
+    "id": "17ea228e-52d1-440b-9e51-9043f1f75c91",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Grow similar feeling program help identify try detail. #simply6552",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "0cbe8a01-ca92-478b-b1f5-35402a0af227",
+            "name": "simply6552",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-21T07:37:36.497791Z",
+    "updated_at": "2026-09-21T07:37:36.497794Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

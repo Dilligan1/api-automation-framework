@@ -1,0 +1,32 @@
+{
+    "id": "4f1b3f6b-1d69-4daf-95bc-f4f97ba920ad",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Thing role catch subject when rise measure Republican certain. #fire544",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "e83b0de5-3568-4e39-b858-881066e74222",
+            "name": "fire544",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-21T07:37:35.759860Z",
+    "updated_at": "2026-09-21T07:37:35.759862Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

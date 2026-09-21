@@ -1,0 +1,20 @@
+{
+    "id": "6081f3b4-5f0d-4416-bce7-f624642b5dc9",
+    "email": "qa+576e9aa4@example.com",
+    "username": "qa_ed67cc87",
+    "display_name": "Kathleen Roberson",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-09-21T07:37:36.415649Z",
+    "updated_at": "2026-09-21T07:37:36.415655Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}
