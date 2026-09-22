@@ -1,0 +1,32 @@
+{
+    "id": "9982884c-2979-48fc-bbf8-56a0dae4a6e5",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Natural sure agent bar over director less order resource along team relate as become manage. #feel7553",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "0756bd44-c4df-45e2-a509-0712b36bb0c1",
+            "name": "feel7553",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-22T07:18:00.779838Z",
+    "updated_at": "2026-09-22T07:18:00.779841Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

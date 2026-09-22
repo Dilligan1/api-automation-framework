@@ -1,0 +1,32 @@
+{
+    "id": "5aae485e-5cd6-430a-9c25-91458c45de27",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Under whatever piece democratic show together mention yard human. #actually3797",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "617b0687-6b96-4a80-afee-931b47f3fffd",
+            "name": "actually3797",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-22T07:18:00.801605Z",
+    "updated_at": "2026-09-22T07:18:00.801607Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

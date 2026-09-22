@@ -1,0 +1,19 @@
+{
+    "id": "0e088f3c-b165-44af-8db1-7e8a4e294f2f",
+    "post_id": "1d552e96-fe23-4d16-a15e-59427db18c10",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Blue better they population probably.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-22T07:18:00.324212Z",
+    "updated_at": "2026-09-22T07:18:00.324214Z",
+    "is_liked": false,
+    "replies_count": 0
+}

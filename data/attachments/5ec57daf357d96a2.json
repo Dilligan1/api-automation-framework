@@ -1,0 +1,32 @@
+{
+    "id": "12a10937-0b0d-478e-9575-a19272c3d132",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Next response religious surface before window door establish recently road kind discover. #plan8424",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "2ee498b7-9831-4dbe-85f0-3ae63fcd7c23",
+            "name": "plan8424",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-22T07:17:59.687053Z",
+    "updated_at": "2026-09-22T07:18:00.335241Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
