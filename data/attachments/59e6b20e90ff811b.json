@@ -1,0 +1,32 @@
+{
+    "id": "2cc2f691-f456-4a4a-8bbf-7c1eb45d6d6f",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Great surface old eight official lot tree candidate company budget tree into often note decade. #anyone775",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "eddf0459-b24e-4335-9c66-8695c2bbf91c",
+            "name": "anyone775",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-23T07:20:59.055444Z",
+    "updated_at": "2026-09-23T07:20:59.055447Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

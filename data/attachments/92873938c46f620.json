@@ -1,0 +1,32 @@
+{
+    "id": "7b4d6a01-0868-4497-ab26-f670c2b3c6df",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Hot return when pull well technology his contain arm. #poor8406",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "5d3c7fe0-9302-4770-bda4-c81e46523eb3",
+            "name": "poor8406",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-23T07:20:59.522259Z",
+    "updated_at": "2026-09-23T07:20:59.522261Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
