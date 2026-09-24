@@ -1,0 +1,32 @@
+{
+    "id": "6f1e84b8-ffbe-472d-b5a0-e01e6cf50d26",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Toward position professional right sound especially rich contain few time design almost kitchen. #at6044",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "98c43ec1-9337-49dc-8ef8-6fa0167f909f",
+            "name": "party7262",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-24T07:10:37.305518Z",
+    "updated_at": "2026-09-24T07:10:38.325982Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

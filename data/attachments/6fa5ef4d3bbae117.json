@@ -1,0 +1,19 @@
+{
+    "id": "a24ce966-47b4-4307-9349-637973f9c1ea",
+    "post_id": "6f1e84b8-ffbe-472d-b5a0-e01e6cf50d26",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Car always win behavior blood.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-24T07:10:38.219424Z",
+    "updated_at": "2026-09-24T07:10:38.219427Z",
+    "is_liked": false,
+    "replies_count": 0
+}
