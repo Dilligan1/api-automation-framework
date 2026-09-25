@@ -1,0 +1,19 @@
+{
+    "id": "e0e4aef7-cfcc-4824-8ae9-53ba3bc10a37",
+    "post_id": "97280c49-c423-4fd5-9702-9c8b7ce8c037",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Enough book leg case weight power.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-25T07:07:23.242780Z",
+    "updated_at": "2026-09-25T07:07:23.242782Z",
+    "is_liked": false,
+    "replies_count": 0
+}
