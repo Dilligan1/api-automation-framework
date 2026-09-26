@@ -1,0 +1,32 @@
+{
+    "id": "785d4660-c9cf-4f57-9a14-0f20dab3f11f",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Edge Mrs long detail set campaign also it stay camera position resource side four nation. #effort3033",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "db422999-e21f-4e93-8609-782c0a281402",
+            "name": "second3261",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-26T07:04:07.957516Z",
+    "updated_at": "2026-09-26T07:04:08.881975Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

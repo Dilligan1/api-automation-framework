@@ -1,0 +1,19 @@
+{
+    "id": "df1fd137-b1fc-4c2c-a8a8-0bb15e4889de",
+    "post_id": "c637b91f-b4ee-43d9-88f9-c58598537f03",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Detail bank yes none admit not increase senior American.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-26T07:04:09.058133Z",
+    "updated_at": "2026-09-26T07:04:09.058136Z",
+    "is_liked": false,
+    "replies_count": 0
+}
