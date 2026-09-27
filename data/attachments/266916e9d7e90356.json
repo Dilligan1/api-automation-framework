@@ -1,0 +1,20 @@
+{
+    "id": "e2b285d8-23e7-439e-ba96-a3e22daa73c7",
+    "email": "qa+fc7d9134@example.com",
+    "username": "qa_12118fd3",
+    "display_name": "Lisa Frye",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-09-27T07:35:34.008367Z",
+    "updated_at": "2026-09-27T07:35:34.008372Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

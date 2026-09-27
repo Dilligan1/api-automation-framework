@@ -1,0 +1,19 @@
+{
+    "id": "48f43243-261b-49b7-be4e-82e29a3ef6b5",
+    "post_id": "b6f4042c-7527-4fe7-b98a-a2bee81a7617",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Result effect program provide present.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-27T07:35:33.620469Z",
+    "updated_at": "2026-09-27T07:35:33.620475Z",
+    "is_liked": false,
+    "replies_count": 0
+}

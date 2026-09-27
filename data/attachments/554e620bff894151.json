@@ -1,0 +1,19 @@
+{
+    "id": "0a7bd558-91ad-4150-b26e-95bb2f4715c1",
+    "post_id": "e99261d9-e940-48a3-9712-d44856b6c007",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Activity nature billion weight interview.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-27T07:35:34.268726Z",
+    "updated_at": "2026-09-27T07:35:34.268729Z",
+    "is_liked": false,
+    "replies_count": 0
+}
