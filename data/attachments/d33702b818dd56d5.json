@@ -1,0 +1,19 @@
+{
+    "id": "d08dc7ab-a8f4-4adf-8b7e-3d07f4a1bcff",
+    "post_id": "f821445b-eae5-4e2b-980b-e873414ad100",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Move into suggest just worry set successful occur four source.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-09-28T08:12:47.882259Z",
+    "updated_at": "2026-09-28T08:12:47.882261Z",
+    "is_liked": false,
+    "replies_count": 0
+}
