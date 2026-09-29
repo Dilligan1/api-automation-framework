@@ -1,0 +1,32 @@
+{
+    "id": "299c096c-6f04-47f1-900f-beb85a4c441a",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Role side really information bit stop all recognize fly around. #character968",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "8097df06-83f2-46da-a9a1-fe9fdbd5c556",
+            "name": "character968",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-29T07:53:35.957691Z",
+    "updated_at": "2026-09-29T07:53:35.957693Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

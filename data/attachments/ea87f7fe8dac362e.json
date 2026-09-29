@@ -1,0 +1,32 @@
+{
+    "id": "61ce1639-0ac7-4251-bb6c-34db6d1c0cb2",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Year partner everyone you garden hair school. #risk2314",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "d8392891-d90f-4d53-b61e-1621987241f0",
+            "name": "risk2314",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-09-29T07:53:36.514169Z",
+    "updated_at": "2026-09-29T07:53:36.514171Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
