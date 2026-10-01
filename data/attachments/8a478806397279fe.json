@@ -1,0 +1,19 @@
+{
+    "id": "c872cc80-24fa-4a27-b10c-d1c38ffd73cc",
+    "post_id": "f39c145d-dd1a-4e66-8ce7-7516b08d5e23",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Itself where weight next sit pull until.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-01T08:18:39.628202Z",
+    "updated_at": "2026-10-01T08:18:39.628205Z",
+    "is_liked": false,
+    "replies_count": 0
+}
