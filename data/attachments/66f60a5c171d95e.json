@@ -1,0 +1,32 @@
+{
+    "id": "4f8ef684-da1d-420c-afdf-a6177a1824fa",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Memory happy deal bank almost power say every born kind billion star. #determine7773",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "d51d8fa7-d92b-4943-b6a7-3eef2389790b",
+            "name": "determine7773",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-02T07:56:08.244572Z",
+    "updated_at": "2026-10-02T07:56:08.558504Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

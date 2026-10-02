@@ -1,0 +1,19 @@
+{
+    "id": "141beec2-a661-42c8-bda0-00ea9ae4974d",
+    "post_id": "0caec296-b881-429a-8224-83c1dbd0b3c1",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Share though product term arm accept compare.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-02T07:56:09.346747Z",
+    "updated_at": "2026-10-02T07:56:09.346749Z",
+    "is_liked": false,
+    "replies_count": 0
+}

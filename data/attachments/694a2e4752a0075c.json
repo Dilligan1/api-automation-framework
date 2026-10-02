@@ -1,0 +1,32 @@
+{
+    "id": "0caec296-b881-429a-8224-83c1dbd0b3c1",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Citizen for to school manage outside history media but green. #figure7056",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "6dd4ef51-c49a-48d6-a909-983ad018a166",
+            "name": "tell6290",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-02T07:56:09.174854Z",
+    "updated_at": "2026-10-02T07:56:09.394793Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
