@@ -1,0 +1,32 @@
+{
+    "id": "be87be34-9c31-40d6-8976-617052c28db4",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Adult physical author industry right address drive recently after with available leader spend several southern. #see8603",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "2450d70b-446c-476d-b595-218a9403bcab",
+            "name": "see8603",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-03T07:34:56.537408Z",
+    "updated_at": "2026-10-03T07:34:56.537410Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
