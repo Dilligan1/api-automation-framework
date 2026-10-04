@@ -1,0 +1,32 @@
+{
+    "id": "a2db2a6d-b0e1-4ae0-91b1-9546b0da1318",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Case if number agree child everyone against control fast international especially. #southern5736",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "8bc21d98-ab2b-43be-938b-3fd7714d648c",
+            "name": "southern5736",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-04T07:45:42.615648Z",
+    "updated_at": "2026-10-04T07:45:43.273213Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

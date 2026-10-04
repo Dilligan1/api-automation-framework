@@ -1,0 +1,19 @@
+{
+    "id": "90eaa382-0331-4a97-b2a2-0beea6426a29",
+    "post_id": "a2db2a6d-b0e1-4ae0-91b1-9546b0da1318",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Seek full many answer person early face.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-04T07:45:43.274532Z",
+    "updated_at": "2026-10-04T07:45:43.274534Z",
+    "is_liked": false,
+    "replies_count": 0
+}

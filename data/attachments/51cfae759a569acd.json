@@ -1,0 +1,19 @@
+{
+    "id": "44f2aa67-0287-425b-8cf6-ddd6f9a52275",
+    "post_id": "b76d0d2a-6920-40aa-97b3-34d3b1e822b7",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Realize end movement and dark save feel read operation.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-04T07:45:43.058591Z",
+    "updated_at": "2026-10-04T07:45:43.058593Z",
+    "is_liked": false,
+    "replies_count": 0
+}
