@@ -1,0 +1,32 @@
+{
+    "id": "976e9347-2c31-4997-910e-a3c27c250430",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "When during ability finish water several area check site across reflect police before street believe catch. #interesting4372",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "9c7a3e75-20ff-4945-8024-d3f4d6c073b2",
+            "name": "interesting4372",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-06T08:33:21.150700Z",
+    "updated_at": "2026-10-06T08:33:21.693426Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,19 @@
+{
+    "id": "8ef981dc-fd49-4117-b7a8-60aa22709d22",
+    "post_id": "e3c18ca7-98c2-4d02-b2dd-911d3cb0f4d5",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Still paper event official head it PM.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-06T08:33:22.214536Z",
+    "updated_at": "2026-10-06T08:33:22.214538Z",
+    "is_liked": false,
+    "replies_count": 0
+}
