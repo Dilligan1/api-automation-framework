@@ -1,0 +1,19 @@
+{
+    "id": "e3009898-16a1-4954-ad14-95a60604a160",
+    "post_id": "987fb91b-b8ef-41b5-8e15-b7aabc64b1c1",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Until reveal concern participant world market result there month.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-07T08:08:48.270817Z",
+    "updated_at": "2026-10-07T08:08:48.270819Z",
+    "is_liked": false,
+    "replies_count": 0
+}
