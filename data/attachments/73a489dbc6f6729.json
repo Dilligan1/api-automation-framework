@@ -1,0 +1,19 @@
+{
+    "id": "b71922fd-b0d0-47cd-bfe5-f8d01b45a743",
+    "post_id": "489dc586-07c4-4536-97c2-d37867fb5642",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Window make fight learn teacher such great young establish resource.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-08T08:25:17.308496Z",
+    "updated_at": "2026-10-08T08:25:17.308499Z",
+    "is_liked": false,
+    "replies_count": 0
+}
