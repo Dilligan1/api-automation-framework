@@ -1,0 +1,19 @@
+{
+    "id": "81619e2d-152c-4925-a4d4-770e2408760d",
+    "post_id": "62f4020c-d17f-4c07-be88-d8265f32b571",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Bring sit better three.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-10T08:06:26.438729Z",
+    "updated_at": "2026-10-10T08:06:26.438732Z",
+    "is_liked": false,
+    "replies_count": 0
+}

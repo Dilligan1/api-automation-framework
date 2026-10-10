@@ -1,0 +1,32 @@
+{
+    "id": "7e51af74-9e9f-43ee-8aaf-94112efc3c53",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Population appear join from month red capital recognize. #stuff8430",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "6c742082-1320-4bee-9a5a-e95c145b3cf0",
+            "name": "stuff8430",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-10T08:06:26.841662Z",
+    "updated_at": "2026-10-10T08:06:26.841664Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

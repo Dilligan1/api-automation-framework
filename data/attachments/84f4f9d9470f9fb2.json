@@ -1,0 +1,20 @@
+{
+    "id": "de541f68-05bf-4068-b3be-572e59e98cd6",
+    "email": "qa+491355dd@example.com",
+    "username": "qa_1692003e",
+    "display_name": "Christopher Hamilton",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-10-10T08:06:26.777762Z",
+    "updated_at": "2026-10-10T08:06:26.777765Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

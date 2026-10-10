@@ -1,0 +1,19 @@
+{
+    "id": "84d68418-141c-426e-b6f9-f215a4cdb716",
+    "post_id": "50746589-1ee6-48b9-b0d3-fdfce5baac34",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Happy itself Republican although baby executive garden involve instead.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-10T08:06:27.002406Z",
+    "updated_at": "2026-10-10T08:06:27.002408Z",
+    "is_liked": false,
+    "replies_count": 0
+}

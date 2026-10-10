@@ -1,0 +1,32 @@
+{
+    "id": "50746589-1ee6-48b9-b0d3-fdfce5baac34",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Tv can every article house research prevent product decide fine page suggest describe economic suddenly. #position3666",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "00d64f91-aff6-42f7-a5c5-ab1441f1b556",
+            "name": "position3666",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-10T08:06:26.885266Z",
+    "updated_at": "2026-10-10T08:06:26.885268Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,32 @@
+{
+    "id": "f96275dd-85b3-4512-9b47-a83b9170e171",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Town magazine collection decade light business successful threat detail career decide laugh learn song. #born2116",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "9195cc31-607e-4919-bc34-2acb9d60e4ab",
+            "name": "born2116",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-10T08:06:26.162760Z",
+    "updated_at": "2026-10-10T08:06:26.162762Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,19 @@
+{
+    "id": "0b20c778-119c-4593-8857-f15914ced947",
+    "post_id": "790e6cf6-4c03-4da9-8129-61d18cd578d5",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Me call face put get.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-10T08:06:26.450007Z",
+    "updated_at": "2026-10-10T08:06:26.450011Z",
+    "is_liked": false,
+    "replies_count": 0
+}
