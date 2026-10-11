@@ -1,0 +1,19 @@
+{
+    "id": "0d408c03-ae9e-47bd-ad04-50b78354e285",
+    "post_id": "c536c428-bb14-4249-8103-b6d4d056bbb0",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Fall growth state police prepare together.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-11T08:17:17.222285Z",
+    "updated_at": "2026-10-11T08:17:17.222287Z",
+    "is_liked": false,
+    "replies_count": 0
+}
