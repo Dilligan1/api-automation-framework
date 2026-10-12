@@ -1,0 +1,32 @@
+{
+    "id": "3d5228d6-07ab-46a0-a13f-4161b5522f57",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Sign stuff drop clear seven girl chance move choice like everything. #poor1170",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "35f36026-35f7-4f26-9924-4d41f455286d",
+            "name": "poor1170",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-12T08:36:17.139875Z",
+    "updated_at": "2026-10-12T08:36:17.139877Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

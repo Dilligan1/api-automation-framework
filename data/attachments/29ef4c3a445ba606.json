@@ -1,0 +1,32 @@
+{
+    "id": "ea9ffbf9-373f-4dd9-9fe6-0ac0977a9bda",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "From popular range control focus shake popular Mrs each. #international1363",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "6577d741-3575-443a-a16e-005bdcf91a5c",
+            "name": "international1363",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-12T08:36:17.536427Z",
+    "updated_at": "2026-10-12T08:36:17.536430Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
