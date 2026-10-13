@@ -1,0 +1,20 @@
+{
+    "id": "939613f5-9fe1-4215-83e2-8bd5c0235756",
+    "email": "qa+b1df45e8@example.com",
+    "username": "qa_f9be4354",
+    "display_name": "Christopher Patel",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-10-13T08:56:25.779245Z",
+    "updated_at": "2026-10-13T08:56:25.779249Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

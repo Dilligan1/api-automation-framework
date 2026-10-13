@@ -1,0 +1,19 @@
+{
+    "id": "7cf3bd1f-0453-4263-b5bc-7da7fe6a061a",
+    "post_id": "3ec68724-ef88-4182-974c-4de2637c46cc",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Blue station surface science she.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-13T08:56:25.444335Z",
+    "updated_at": "2026-10-13T08:56:25.444337Z",
+    "is_liked": false,
+    "replies_count": 0
+}
