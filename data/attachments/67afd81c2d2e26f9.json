@@ -1,0 +1,19 @@
+{
+    "id": "0758544f-7e77-45ea-b3f2-f6086c1d942e",
+    "post_id": "99fce6da-e92b-48dd-9c57-fc46ed9ab3f5",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Bar laugh discover what partner.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-14T07:06:19.652119Z",
+    "updated_at": "2026-10-14T07:06:19.652121Z",
+    "is_liked": false,
+    "replies_count": 0
+}
