@@ -1,0 +1,32 @@
+{
+    "id": "355816ab-e9b3-458e-9a1e-e200e602ec67",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Own investment fish walk arrive everybody information hear second. #side76",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "bdae52d7-ac4d-47aa-a186-2edd39194996",
+            "name": "side76",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-16T06:44:06.031854Z",
+    "updated_at": "2026-10-16T06:44:06.031856Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
