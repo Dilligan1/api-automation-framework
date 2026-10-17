@@ -1,0 +1,32 @@
+{
+    "id": "931877a9-3242-4490-b49b-e7749e69e16e",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Move child score instead bar author hope number last. #physical8403",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "f33c11fc-d4b8-4bba-993e-89a9d8558c43",
+            "name": "physical8403",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-17T06:33:05.959588Z",
+    "updated_at": "2026-10-17T06:33:05.959591Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
