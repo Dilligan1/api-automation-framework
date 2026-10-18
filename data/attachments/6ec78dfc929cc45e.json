@@ -1,0 +1,32 @@
+{
+    "id": "aa0f5899-a423-4945-a2e0-a29726ebc50a",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Risk lose bag pull common enough yeah. #style1067",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "f543ed69-0b0b-4249-b806-c7beae8492b6",
+            "name": "style1067",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-18T06:57:38.407024Z",
+    "updated_at": "2026-10-18T06:57:38.407028Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

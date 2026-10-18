@@ -1,0 +1,19 @@
+{
+    "id": "7f252220-e058-4669-bcf9-f59482016293",
+    "post_id": "1b90a442-1cf5-4f8c-83f6-aebe59b6ee91",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Happy pass near remember my fish game need market.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-18T06:57:38.199195Z",
+    "updated_at": "2026-10-18T06:57:38.199196Z",
+    "is_liked": false,
+    "replies_count": 0
+}

@@ -1,0 +1,19 @@
+{
+    "id": "2b2637ed-469b-4f17-a329-b5c1b769c8e7",
+    "post_id": "fbc4af45-53b7-40fe-987e-8099a8259791",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Blue show talk man contain able beat real tax his.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-18T06:57:38.207366Z",
+    "updated_at": "2026-10-18T06:57:38.207369Z",
+    "is_liked": false,
+    "replies_count": 0
+}

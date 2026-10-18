@@ -1,0 +1,32 @@
+{
+    "id": "fbc4af45-53b7-40fe-987e-8099a8259791",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Laugh direction house law popular weight always land very place main appear. #piece8186",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "bc2b3f59-a83f-44ce-a2a0-5e8fe7fefb86",
+            "name": "piece8186",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-18T06:57:37.933023Z",
+    "updated_at": "2026-10-18T06:57:38.206239Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
