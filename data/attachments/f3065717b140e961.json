@@ -1,0 +1,20 @@
+{
+    "id": "429a6562-daec-4d54-9f2f-124b47b3ca1b",
+    "email": "qa+e54851b0@example.com",
+    "username": "qa_21781c9c",
+    "display_name": "Rodney Holmes",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-10-19T07:18:43.039865Z",
+    "updated_at": "2026-10-19T07:18:43.039870Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

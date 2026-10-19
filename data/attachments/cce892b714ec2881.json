@@ -1,0 +1,32 @@
+{
+    "id": "4a90199f-1b2a-40ab-a6ba-75ff3ae8a2aa",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Their national but receive wonder need per together four necessary idea building. #vote4652",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "38fea5a4-dca5-4e4d-bbbb-ea779e9d457a",
+            "name": "vote4652",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-19T07:18:43.144946Z",
+    "updated_at": "2026-10-19T07:18:43.277815Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

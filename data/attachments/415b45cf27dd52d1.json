@@ -1,0 +1,19 @@
+{
+    "id": "5c3cd68f-489f-4af6-b6ad-06eac1aa1d92",
+    "post_id": "dd97e907-f22c-4746-ac07-0a62960bb5b7",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "View read drug newspaper thousand.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-19T07:18:42.655980Z",
+    "updated_at": "2026-10-19T07:18:42.655982Z",
+    "is_liked": false,
+    "replies_count": 0
+}
