@@ -1,0 +1,20 @@
+{
+    "id": "68bbae86-4280-4e2c-aea4-05e61e3d71af",
+    "email": "qa+fd7709b2@example.com",
+    "username": "qa_77ab1321",
+    "display_name": "Andrea Gilmore",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-10-20T07:09:53.838535Z",
+    "updated_at": "2026-10-20T07:09:53.838540Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

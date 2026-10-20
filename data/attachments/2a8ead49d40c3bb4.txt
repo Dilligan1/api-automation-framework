@@ -1,0 +1,1 @@
+http://localhost:8000/api/posts/ead46725-1d59-4403-afd5-9d966e04543b
