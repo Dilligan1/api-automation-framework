@@ -1,0 +1,19 @@
+{
+    "id": "803ff16b-7a4e-48fe-b708-a91ff97bb4eb",
+    "post_id": "f33f8113-bc31-4028-a562-f1857654eb89",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "All your cost time believe author area.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-21T07:03:04.232882Z",
+    "updated_at": "2026-10-21T07:03:04.232884Z",
+    "is_liked": false,
+    "replies_count": 0
+}

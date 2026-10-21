@@ -1,0 +1,32 @@
+{
+    "id": "baf88d5f-695f-4c7e-b4d8-5b0144eb5a84",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Answer need per tree from poor chance wish stage behind likely executive military develop administration region. #always8175",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "13d3a95c-c074-4902-a63e-59cc92bc37bf",
+            "name": "always8175",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-21T07:03:04.810442Z",
+    "updated_at": "2026-10-21T07:03:04.810444Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

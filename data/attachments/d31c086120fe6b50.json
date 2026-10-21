@@ -1,0 +1,32 @@
+{
+    "id": "f33f8113-bc31-4028-a562-f1857654eb89",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Movie threat operation own I decade five work drive quite until water newspaper clearly outside. #north1254",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "c3402f78-161d-40ed-908e-d5c28f820fbf",
+            "name": "north1254",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-21T07:03:03.929321Z",
+    "updated_at": "2026-10-21T07:03:03.929326Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
