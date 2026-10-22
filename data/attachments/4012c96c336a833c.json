@@ -1,0 +1,32 @@
+{
+    "id": "03622a0a-0cb2-4a9b-a6a2-d32c6e06015b",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Summer within case wall subject simple he sign test student light choice. #probably2099",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "98ca60b1-5a6e-4a93-8083-ec25b438702a",
+            "name": "probably2099",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-22T07:04:57.205646Z",
+    "updated_at": "2026-10-22T07:04:57.205651Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
