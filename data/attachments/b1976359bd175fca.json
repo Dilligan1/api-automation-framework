@@ -1,0 +1,32 @@
+{
+    "id": "bb87b2f1-a5db-4d9a-955d-7b0e23441370",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Build wear property position story at beyond stock would show class TV stand man reach. #free1233",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "f0a80b0a-fec4-4155-b972-295657ef6884",
+            "name": "free1233",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-23T06:57:11.393502Z",
+    "updated_at": "2026-10-23T06:57:11.393505Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,20 @@
+{
+    "id": "925bc057-f68e-45a5-8b8b-15b5cb63e0ac",
+    "email": "qa+b71e99f7@example.com",
+    "username": "qa_f608b7e6",
+    "display_name": "Dr. Erica Flynn",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-10-23T06:57:12.414801Z",
+    "updated_at": "2026-10-23T06:57:12.414805Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}
