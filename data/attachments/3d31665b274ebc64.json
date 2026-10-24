@@ -1,0 +1,20 @@
+{
+    "id": "2478ab1a-c4c1-4256-bcc9-fadf2015e9fe",
+    "email": "qa+4bf9b66c@example.com",
+    "username": "qa_c6071cf8",
+    "display_name": "Debra Dean",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-10-24T06:52:32.033546Z",
+    "updated_at": "2026-10-24T06:52:32.033551Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

@@ -1,0 +1,19 @@
+{
+    "id": "31ee518a-358d-4173-a566-06f80d03acd8",
+    "post_id": "d1c5eb79-4a65-4aab-8a2a-fea6e35f78c2",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Husband any house student heart both like six prepare along.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-24T06:52:32.486903Z",
+    "updated_at": "2026-10-24T06:52:32.486909Z",
+    "is_liked": false,
+    "replies_count": 0
+}

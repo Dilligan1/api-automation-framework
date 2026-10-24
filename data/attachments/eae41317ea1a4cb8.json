@@ -1,0 +1,19 @@
+{
+    "id": "5669879e-6f9f-4bbd-8b92-da08b86d9138",
+    "post_id": "3d235f8f-4dd1-4ab8-ba3c-3f53c05ad576",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "However bad painting behavior model.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-24T06:52:32.083324Z",
+    "updated_at": "2026-10-24T06:52:32.083327Z",
+    "is_liked": false,
+    "replies_count": 0
+}
