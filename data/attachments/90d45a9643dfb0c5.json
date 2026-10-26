@@ -1,0 +1,19 @@
+{
+    "id": "b9dc8879-69a3-4879-a8e6-5ecc824654df",
+    "post_id": "8b1eae49-7e61-40bc-a9b9-9ac55c87d09e",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Always then too class play kid.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-26T07:24:40.461750Z",
+    "updated_at": "2026-10-26T07:24:40.461752Z",
+    "is_liked": false,
+    "replies_count": 0
+}

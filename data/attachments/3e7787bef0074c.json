@@ -1,0 +1,19 @@
+{
+    "id": "54ae4dd5-6a97-4c92-973d-3c4583b4c241",
+    "post_id": "31db11d1-b6df-449f-a5ce-372327b1a7bb",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Beyond arrive quickly look big analysis.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-26T07:24:40.166328Z",
+    "updated_at": "2026-10-26T07:24:40.166331Z",
+    "is_liked": false,
+    "replies_count": 0
+}
