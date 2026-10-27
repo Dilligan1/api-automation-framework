@@ -1,0 +1,19 @@
+{
+    "id": "905d7683-a29c-4d0f-a414-837df86ecd12",
+    "post_id": "b1b428e7-9946-4649-84b2-251a1da65391",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "President term you go answer hospital.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-27T07:17:28.651778Z",
+    "updated_at": "2026-10-27T07:17:28.651780Z",
+    "is_liked": false,
+    "replies_count": 0
+}
