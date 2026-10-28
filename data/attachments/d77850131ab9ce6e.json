@@ -1,0 +1,19 @@
+{
+    "id": "42e37f83-c630-4f0f-8ffa-aedc69717526",
+    "post_id": "3b932e2f-9572-4d74-93cf-139504f7fada",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "West identify seven face hotel.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-28T07:55:12.006071Z",
+    "updated_at": "2026-10-28T07:55:12.006074Z",
+    "is_liked": false,
+    "replies_count": 0
+}

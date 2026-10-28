@@ -1,0 +1,32 @@
+{
+    "id": "8686033b-4ed5-4bed-be17-0ffd7210d4f0",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Light matter vote treatment several east west that visit new someone magazine move picture represent. #voice8661",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "3fd7e172-653e-44bb-9a34-feee26bcf2b6",
+            "name": "voice8661",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-28T07:55:11.862981Z",
+    "updated_at": "2026-10-28T07:55:11.862983Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
