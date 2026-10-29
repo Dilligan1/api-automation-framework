@@ -1,0 +1,32 @@
+{
+    "id": "ac3b6de6-575f-4b49-86c0-6c614518fae5",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Thing strong body agency board send their leader a. #rest3919",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "d97e4b51-244e-40e5-8bda-4a2891d08115",
+            "name": "rest3919",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-29T08:01:21.743392Z",
+    "updated_at": "2026-10-29T08:01:21.743396Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

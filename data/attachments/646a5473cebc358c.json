@@ -1,0 +1,32 @@
+{
+    "id": "d38b7a07-6c9e-483c-9451-fc51805c001f",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Administration service husband traditional blood foreign also hour he him specific example born feel. #service8467",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "bf83bf4e-be93-4a64-838f-500ded8fb01f",
+            "name": "service8467",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-29T08:01:21.763510Z",
+    "updated_at": "2026-10-29T08:01:21.763513Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
