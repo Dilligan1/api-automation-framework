@@ -1,0 +1,19 @@
+{
+    "id": "e51a0dc2-af35-4871-a0a1-e5bf53b13b98",
+    "post_id": "45d9b825-d6e6-4ef5-ace1-87cdd6d9a741",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Service always artist past fine trade what single.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-30T08:02:38.493486Z",
+    "updated_at": "2026-10-30T08:02:38.493488Z",
+    "is_liked": false,
+    "replies_count": 0
+}
