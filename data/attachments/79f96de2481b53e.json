@@ -1,0 +1,20 @@
+{
+    "id": "60a2e4ac-84bd-4673-b57a-d22c40ea9d86",
+    "email": "qa+8a7cbcc2@example.com",
+    "username": "qa_40a77c4b",
+    "display_name": "Eric Mcdonald",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-10-31T07:59:25.697263Z",
+    "updated_at": "2026-10-31T07:59:25.697267Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}

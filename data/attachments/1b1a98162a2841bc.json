@@ -1,0 +1,32 @@
+{
+    "id": "53232c83-955f-497d-b576-040092b1132c",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Yes style two myself whole training data cost whose none movement become score himself. #international841",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "92edbc54-3706-4310-a9a1-31f25fa2bbb2",
+            "name": "international841",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-31T07:59:24.696768Z",
+    "updated_at": "2026-10-31T07:59:24.696771Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

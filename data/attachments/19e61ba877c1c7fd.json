@@ -1,0 +1,32 @@
+{
+    "id": "0b717939-8537-4d93-9f85-768a2ebdb10c",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Wonder behavior line difference writer court there people manager general much though. #class6626",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "11024895-2ee8-448c-8de9-96828356a0ba",
+            "name": "class6626",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-31T07:59:25.767895Z",
+    "updated_at": "2026-10-31T07:59:25.767898Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

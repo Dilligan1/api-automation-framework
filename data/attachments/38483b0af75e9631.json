@@ -1,0 +1,19 @@
+{
+    "id": "720ddbf3-9f28-41c3-94e2-ca121171757e",
+    "post_id": "53232c83-955f-497d-b576-040092b1132c",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Against above he itself her.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-10-31T07:59:25.344524Z",
+    "updated_at": "2026-10-31T07:59:25.344526Z",
+    "is_liked": false,
+    "replies_count": 0
+}

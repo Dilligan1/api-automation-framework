@@ -1,0 +1,32 @@
+{
+    "id": "3cbbe09a-22db-473b-97e6-20d33e7d24bb",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000006",
+        "username": "dave_quiet",
+        "display_name": "Dave Quiet",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Card before college civil fish here no executive affect. #discuss6668",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "15268edb-3d17-43bd-9abb-9731351f28a5",
+            "name": "discuss6668",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-10-31T07:59:24.709824Z",
+    "updated_at": "2026-10-31T07:59:24.709827Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
