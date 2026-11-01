@@ -1,0 +1,19 @@
+{
+    "id": "71a6368b-5b92-453e-89a1-ba238d0938de",
+    "post_id": "6a126ced-7067-4c23-a3bc-83ba1c469939",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "South lose medical protect professional when use avoid.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-01T08:41:55.945832Z",
+    "updated_at": "2026-11-01T08:41:55.945834Z",
+    "is_liked": false,
+    "replies_count": 0
+}
