@@ -1,0 +1,1 @@
+http://localhost:8000/api/follows/requests/eb86376e-e6bf-44b9-a5e7-58d7c0fbcdb7/accept

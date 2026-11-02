@@ -1,0 +1,19 @@
+{
+    "id": "aab10aa0-e9d0-4562-bb80-5f37daa8afa2",
+    "post_id": "1c40e2be-e60e-4c9f-a127-5abc7e103d9a",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Difference hope focus special foreign our ago least may body.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-02T08:52:22.580175Z",
+    "updated_at": "2026-11-02T08:52:22.580178Z",
+    "is_liked": false,
+    "replies_count": 0
+}

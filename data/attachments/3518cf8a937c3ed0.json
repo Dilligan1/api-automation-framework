@@ -1,0 +1,19 @@
+{
+    "id": "b33fcad8-9074-4e99-a4d6-cfebd064c481",
+    "post_id": "e157f574-5921-4991-8277-67548b0aba30",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Paper prepare food blue difference it.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-02T08:52:22.569298Z",
+    "updated_at": "2026-11-02T08:52:22.569300Z",
+    "is_liked": false,
+    "replies_count": 0
+}

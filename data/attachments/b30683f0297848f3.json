@@ -1,0 +1,32 @@
+{
+    "id": "4b7ad4fb-4988-4566-bf92-73ad5eef6028",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Explain decade want analysis senior action population member writer. #blue787",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "aad7bf94-3b22-4cc7-b783-26131a11b6c0",
+            "name": "blue787",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-02T08:52:23.025785Z",
+    "updated_at": "2026-11-02T08:52:23.025790Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
