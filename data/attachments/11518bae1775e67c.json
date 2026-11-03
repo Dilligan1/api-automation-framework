@@ -1,0 +1,19 @@
+{
+    "id": "c037bd9b-c2aa-4319-8a6c-330ff9d63e4e",
+    "post_id": "35f11419-2077-4273-a0ca-9df301e5b024",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Do so among minute her father final hot project I.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-03T09:00:10.113554Z",
+    "updated_at": "2026-11-03T09:00:10.113557Z",
+    "is_liked": false,
+    "replies_count": 0
+}

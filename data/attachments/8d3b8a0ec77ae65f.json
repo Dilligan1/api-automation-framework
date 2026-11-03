@@ -1,0 +1,32 @@
+{
+    "id": "6ae23b07-2796-4d1c-bfd6-9e02e1fd7717",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Role other drug mind little edge space past arm early adult account according right. #laugh254",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "8edffc79-d85c-4bed-947b-ec84606dc9b7",
+            "name": "laugh254",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-03T09:00:10.834839Z",
+    "updated_at": "2026-11-03T09:00:10.834842Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

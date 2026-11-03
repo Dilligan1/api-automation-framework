@@ -1,0 +1,32 @@
+{
+    "id": "4788eef3-4140-4f1e-ac1a-2832ea431e01",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000006",
+        "username": "dave_quiet",
+        "display_name": "Dave Quiet",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Data idea city protect treatment deal soon letter possible detail thousand provide society. #garden872",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "42f1db86-5e56-4d76-bb91-9af78b7b1704",
+            "name": "garden872",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-03T09:00:09.769100Z",
+    "updated_at": "2026-11-03T09:00:09.769103Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

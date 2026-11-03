@@ -1,0 +1,19 @@
+{
+    "id": "94639d03-f715-4554-9376-7d5b18d0ad0f",
+    "post_id": "4788eef3-4140-4f1e-ac1a-2832ea431e01",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Military spring wife measure ago next movie.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-03T09:00:10.399805Z",
+    "updated_at": "2026-11-03T09:00:10.399810Z",
+    "is_liked": false,
+    "replies_count": 0
+}
