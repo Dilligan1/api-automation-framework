@@ -1,0 +1,19 @@
+{
+    "id": "f84a6ed5-d665-46fe-8003-9544e5eb016a",
+    "post_id": "70907310-1a15-43a6-adcb-477387fb758f",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Year whatever music front address ever view school whatever.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-04T08:36:34.792856Z",
+    "updated_at": "2026-11-04T08:36:34.792858Z",
+    "is_liked": false,
+    "replies_count": 0
+}
