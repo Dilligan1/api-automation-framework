@@ -1,0 +1,32 @@
+{
+    "id": "ec65ddd3-d99f-4367-9719-f8f38a06366f",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Goal per moment expert large why impact sound himself. #enough1495",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "d67ee52a-ec2e-473d-a449-4805d90e8df2",
+            "name": "enough1495",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-05T08:57:17.623573Z",
+    "updated_at": "2026-11-05T08:57:17.623577Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
