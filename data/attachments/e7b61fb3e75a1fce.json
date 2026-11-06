@@ -1,0 +1,32 @@
+{
+    "id": "30623df6-d8e2-4cd6-ab40-9015ebdfc471",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "So within employee power wind case visit voice alone indeed ground work oil. #speak5496",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "81b7160f-a48a-49e6-bfd3-47172d8a463d",
+            "name": "speak5496",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-06T08:55:35.085842Z",
+    "updated_at": "2026-11-06T08:55:35.085844Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
