@@ -1,0 +1,32 @@
+{
+    "id": "73fda07a-6a3f-4be6-885b-708e15d37c5e",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Dream deep energy magazine degree sell good different until. #toward4321",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "fb64d4f8-d5ea-4407-8df8-9c4eea56501e",
+            "name": "toward4321",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-07T08:18:49.651072Z",
+    "updated_at": "2026-11-07T08:18:50.291588Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

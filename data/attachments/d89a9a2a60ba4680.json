@@ -1,0 +1,20 @@
+{
+    "id": "0f041217-a623-4904-aff8-c9101168505f",
+    "email": "qa+ab427647@example.com",
+    "username": "qa_857396be",
+    "display_name": "Brandy Armstrong",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-11-07T08:18:50.263899Z",
+    "updated_at": "2026-11-07T08:18:50.263904Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}
