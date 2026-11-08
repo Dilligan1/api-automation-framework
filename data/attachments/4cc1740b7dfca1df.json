@@ -1,0 +1,32 @@
+{
+    "id": "748c796d-2d5d-4971-b90d-694506af2b0b",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Let beautiful commercial federal lose find strategy once somebody either listen past statement member sit. #investment7668",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "0e23b1cf-f9c8-4940-81c7-43849cce4665",
+            "name": "investment7668",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-08T08:35:13.792912Z",
+    "updated_at": "2026-11-08T08:35:14.347910Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
