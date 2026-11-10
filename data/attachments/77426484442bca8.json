@@ -1,0 +1,19 @@
+{
+    "id": "74ca45c4-3cb6-483f-bc2d-37c03f060476",
+    "post_id": "8e8247d6-106d-40b1-a894-9f1cca0d5af2",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Table she movie through develop fall goal.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-10T09:15:36.103898Z",
+    "updated_at": "2026-11-10T09:15:36.103900Z",
+    "is_liked": false,
+    "replies_count": 0
+}
