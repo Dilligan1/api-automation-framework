@@ -1,0 +1,19 @@
+{
+    "id": "0dba93f0-3347-4e9d-b8f6-59f3081d9356",
+    "post_id": "8d2e0e30-fc8c-484f-b747-2487fe4dd4ee",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Ground animal defense yeah miss free true appear may image.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-11T08:50:47.266777Z",
+    "updated_at": "2026-11-11T08:50:47.266780Z",
+    "is_liked": false,
+    "replies_count": 0
+}
