@@ -1,1 +1,0 @@
-http://localhost:8000/api/admin/users/14e1e908-1153-4a2c-9c7e-90f4b1678c57

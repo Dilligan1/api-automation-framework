@@ -1,0 +1,32 @@
+{
+    "id": "dc2e383d-ccbf-4248-a127-060d6b32cc41",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Should same structure item structure read drop must black south information try. #protect5415",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "b6754b10-1999-4578-aae7-cbbbea997e64",
+            "name": "protect5415",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-12T09:17:07.344803Z",
+    "updated_at": "2026-11-12T09:17:07.344805Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
