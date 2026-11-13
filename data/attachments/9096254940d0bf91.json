@@ -1,0 +1,32 @@
+{
+    "id": "e31d737c-f7fd-4fa2-a0cc-8cd0a798e800",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Age home different brother then race whole conference black customer stop heart prepare must ability fight. #discussion3595",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "aa998073-9db6-4234-8c09-7a50ceff55da",
+            "name": "discussion3595",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-13T09:04:40.542069Z",
+    "updated_at": "2026-11-13T09:04:41.003558Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,32 @@
+{
+    "id": "22fd00ed-2aaa-4f5c-8cfe-17d2933250f6",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000006",
+        "username": "dave_quiet",
+        "display_name": "Dave Quiet",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Article success might thus these public defense bill free all according garden stage truth. #take9171",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "0d19ce57-8776-46ef-bcfa-ff06e0cb94ae",
+            "name": "take9171",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-13T09:04:40.545648Z",
+    "updated_at": "2026-11-13T09:04:40.991260Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

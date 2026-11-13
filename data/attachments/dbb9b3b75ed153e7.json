@@ -1,0 +1,32 @@
+{
+    "id": "082748ec-4099-43d8-a665-44aa0e90b563",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Investment rock ok clearly eight live speak her include draw know south people yet education. #gun3419",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "520998dd-cd78-45eb-9dc1-b5adca8dffb9",
+            "name": "gun3419",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-13T09:04:41.327101Z",
+    "updated_at": "2026-11-13T09:04:41.466956Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
