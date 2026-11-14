@@ -1,0 +1,19 @@
+{
+    "id": "c5a252e2-c721-42d9-bc2a-f44d7628ef5a",
+    "post_id": "2b7565bb-0de6-48f0-ad42-c9a277938d1d",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Environment understand get establish pressure third cost view.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-14T08:35:45.681475Z",
+    "updated_at": "2026-11-14T08:35:45.681477Z",
+    "is_liked": false,
+    "replies_count": 0
+}

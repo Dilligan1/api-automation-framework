@@ -1,0 +1,19 @@
+{
+    "id": "6c5ecc05-7334-47e1-a8c4-ce690079c55c",
+    "post_id": "faa8cf30-62fa-4dda-85f6-97bbb8859141",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Else seven receive owner mission painting note clear ok.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-14T08:35:45.226962Z",
+    "updated_at": "2026-11-14T08:35:45.226964Z",
+    "is_liked": false,
+    "replies_count": 0
+}
