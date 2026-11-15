@@ -1,0 +1,32 @@
+{
+    "id": "71cbb72f-b163-49bc-a4b5-c3562d24e577",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Front ten his cup majority general prove woman tax. #sea3730",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "0c80c839-620b-41d7-ba5b-b25753e485a7",
+            "name": "another2138",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-15T08:49:25.320685Z",
+    "updated_at": "2026-11-15T08:49:26.039968Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,32 @@
+{
+    "id": "04b73cf4-ec8c-4f2f-8a58-056ce1d804da",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Mother according step apply all life low ability administration memory. #prove1781",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "a5477113-cb06-4770-84d5-23a1c10697ca",
+            "name": "prove1781",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-15T08:49:26.084701Z",
+    "updated_at": "2026-11-15T08:49:26.084703Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

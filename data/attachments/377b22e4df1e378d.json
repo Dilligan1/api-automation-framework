@@ -1,0 +1,53 @@
+{
+    "items": [
+        {
+            "id": "eaccca84-5b66-439b-953c-8a38fb238db7",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "type": "comment",
+            "target_type": "post",
+            "target_id": "f1a69509-41ef-4432-b9b8-20d69c999cd6",
+            "is_read": false,
+            "created_at": "2026-11-15T08:49:25.779778Z"
+        },
+        {
+            "id": "72793647-34c4-454f-89d5-83c9ccb6d64a",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "f1a69509-41ef-4432-b9b8-20d69c999cd6",
+            "is_read": false,
+            "created_at": "2026-11-15T08:49:25.559561Z"
+        },
+        {
+            "id": "eb56f64c-37de-4d15-a674-843533e44ced",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000005",
+                "username": "carol_writes",
+                "display_name": "Carol Writer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "follow_request",
+            "target_type": null,
+            "target_id": null,
+            "is_read": false,
+            "created_at": "2026-09-26T08:49:09.981817Z"
+        }
+    ],
+    "total": 3,
+    "page": 1,
+    "per_page": 20,
+    "pages": 1
+}

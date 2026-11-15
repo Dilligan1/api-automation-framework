@@ -1,0 +1,20 @@
+{
+    "id": "67ea7643-8878-474f-89fd-45d907a42ede",
+    "email": "qa+583adda7@example.com",
+    "username": "qa_cfb0bb1a",
+    "display_name": "Thomas Taylor",
+    "bio": null,
+    "avatar_url": null,
+    "cover_url": null,
+    "role": "user",
+    "is_active": true,
+    "is_verified": false,
+    "is_private": false,
+    "created_at": "2026-11-15T08:49:26.038799Z",
+    "updated_at": "2026-11-15T08:49:26.038805Z",
+    "followers_count": 0,
+    "following_count": 0,
+    "posts_count": 0,
+    "is_following": false,
+    "is_followed_by": false
+}
