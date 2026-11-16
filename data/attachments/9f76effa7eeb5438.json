@@ -1,0 +1,32 @@
+{
+    "id": "32237a4a-5d4b-4efb-84b3-5360129ff6de",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Ask business fire present young hair put political standard blue base clear. #new5124",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "60df3ffb-c086-4499-92bf-918a67249ae8",
+            "name": "new5124",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-16T08:59:56.068619Z",
+    "updated_at": "2026-11-16T08:59:56.068621Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
