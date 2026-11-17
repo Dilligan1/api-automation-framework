@@ -1,0 +1,32 @@
+{
+    "id": "d47b8bde-ce43-4cfb-a385-897d1e9f7738",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Tell box guess recognize month imagine side road main social daughter reduce then force effect. #husband2390",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "217516b2-483a-4555-9a12-b4a691b30548",
+            "name": "follow6611",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-17T10:10:59.700633Z",
+    "updated_at": "2026-11-17T10:10:59.900955Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

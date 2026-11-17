@@ -1,0 +1,161 @@
+{
+    "items": [
+        {
+            "id": "0c7e6864-c101-43b4-bba6-376f2b791acf",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000001",
+                "username": "admin",
+                "display_name": "Admin",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "content": "Away vote example guess movie need social trouble nation throughout follow quickly item visit character. #energy4601",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 1,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [
+                {
+                    "id": "f3341197-58cf-4e74-b634-f6b763f8fe76",
+                    "name": "energy4601",
+                    "posts_count": 1
+                }
+            ],
+            "created_at": "2026-11-17T10:10:58.781205Z",
+            "updated_at": "2026-11-17T10:10:59.330181Z",
+            "is_liked": true,
+            "is_bookmarked": false,
+            "user_reaction": "love"
+        },
+        {
+            "id": "85b88e7c-12f1-4ea6-8439-b3e9d636cfc8",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000006",
+                "username": "dave_quiet",
+                "display_name": "Dave Quiet",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "content": "Beyond amount consider mind relationship front red security here especially according executive. #bar1421",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 1,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [
+                {
+                    "id": "044804c5-c06d-422f-a124-15b920a4f78f",
+                    "name": "bar1421",
+                    "posts_count": 1
+                }
+            ],
+            "created_at": "2026-11-17T10:10:58.770342Z",
+            "updated_at": "2026-11-17T10:10:59.336277Z",
+            "is_liked": true,
+            "is_bookmarked": false,
+            "user_reaction": "love"
+        },
+        {
+            "id": "10000000-0000-0000-0000-000000000008",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "content": "Test automation tip: always use data-testid attributes for stable selectors! #testing #automation",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 0,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [
+                {
+                    "id": "30000000-0000-0000-0000-000000000003",
+                    "name": "testing",
+                    "posts_count": 2
+                },
+                {
+                    "id": "30000000-0000-0000-0000-000000000004",
+                    "name": "automation",
+                    "posts_count": 2
+                }
+            ],
+            "created_at": "2026-11-16T10:10:42.997535Z",
+            "updated_at": "2026-11-17T10:10:56.701993Z",
+            "is_liked": false,
+            "is_bookmarked": false,
+            "user_reaction": null
+        },
+        {
+            "id": "10000000-0000-0000-0000-000000000025",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000004",
+                "username": "bob_photo",
+                "display_name": "Bob Photographer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "content": "Unicode test: 你好世界 🌍 مرحبا العالم Привет мир 🇯🇵🇫🇷🇧🇷 Emojis: 😀😂🤣😍🤔🙄😴💀👻🤖 Special: <script>alert('xss')</script> SQL: '; DROP TABLE posts; -- End of test.",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 0,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [],
+            "created_at": "2026-11-15T22:10:42.997535Z",
+            "updated_at": "2026-11-17T10:10:56.721510Z",
+            "is_liked": false,
+            "is_bookmarked": false,
+            "user_reaction": null
+        },
+        {
+            "id": "10000000-0000-0000-0000-000000000024",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "content": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 0,
+            "comments_count": 0,
+            "reposts_count": 0,
+            "hashtags": [],
+            "created_at": "2026-11-15T10:10:42.997535Z",
+            "updated_at": "2026-11-15T10:10:42.997535Z",
+            "is_liked": false,
+            "is_bookmarked": false,
+            "user_reaction": null
+        }
+    ],
+    "total": 25,
+    "page": 1,
+    "per_page": 5,
+    "pages": 5
+}

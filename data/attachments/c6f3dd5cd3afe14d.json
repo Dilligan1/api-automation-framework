@@ -1,0 +1,32 @@
+{
+    "id": "0c7e6864-c101-43b4-bba6-376f2b791acf",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Away vote example guess movie need social trouble nation throughout follow quickly item visit character. #energy4601",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "f3341197-58cf-4e74-b634-f6b763f8fe76",
+            "name": "energy4601",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-17T10:10:58.781205Z",
+    "updated_at": "2026-11-17T10:10:59.330181Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

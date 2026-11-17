@@ -1,0 +1,32 @@
+{
+    "id": "bd4d2714-6437-4a34-80ba-0a2d89292ac1",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Then laugh lawyer successful quite participant tonight. #stage8022",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "33f3f224-09ee-465e-8ab9-8cd842736667",
+            "name": "stage8022",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-17T10:10:59.332641Z",
+    "updated_at": "2026-11-17T10:10:59.332642Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

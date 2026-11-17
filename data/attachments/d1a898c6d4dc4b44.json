@@ -1,0 +1,12 @@
+{
+    "id": "499d9b33-5a2c-43bf-b2b1-72fd76d16426",
+    "user": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "reaction": "love",
+    "created_at": "2026-11-17T10:10:59.742296Z"
+}
