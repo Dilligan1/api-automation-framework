@@ -1,0 +1,161 @@
+{
+    "items": [
+        {
+            "id": "dee9f3fe-4539-40d1-a5c6-be0744ab7bf9",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000006",
+                "username": "dave_quiet",
+                "display_name": "Dave Quiet",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "content": "At arm know alone mean including together lose perhaps beat fund. #professor6312",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 1,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [
+                {
+                    "id": "0b5558b0-a7bc-45cf-b09f-40df8baace2a",
+                    "name": "professor6312",
+                    "posts_count": 1
+                }
+            ],
+            "created_at": "2026-11-18T09:43:56.536063Z",
+            "updated_at": "2026-11-18T09:43:57.057273Z",
+            "is_liked": true,
+            "is_bookmarked": false,
+            "user_reaction": "love"
+        },
+        {
+            "id": "fa3ea8eb-645d-41b9-b732-93e9a44dfad0",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000001",
+                "username": "admin",
+                "display_name": "Admin",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "content": "Become social social sense south benefit member mouth reflect simply card bad test. #power1553",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 1,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [
+                {
+                    "id": "85e5294a-1925-4d19-b7f8-34290e5b5f3f",
+                    "name": "power1553",
+                    "posts_count": 1
+                }
+            ],
+            "created_at": "2026-11-18T09:43:56.526896Z",
+            "updated_at": "2026-11-18T09:43:57.052240Z",
+            "is_liked": true,
+            "is_bookmarked": false,
+            "user_reaction": "love"
+        },
+        {
+            "id": "10000000-0000-0000-0000-000000000008",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "content": "Test automation tip: always use data-testid attributes for stable selectors! #testing #automation",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 0,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [
+                {
+                    "id": "30000000-0000-0000-0000-000000000003",
+                    "name": "testing",
+                    "posts_count": 2
+                },
+                {
+                    "id": "30000000-0000-0000-0000-000000000004",
+                    "name": "automation",
+                    "posts_count": 2
+                }
+            ],
+            "created_at": "2026-11-17T09:43:40.354146Z",
+            "updated_at": "2026-11-18T09:43:54.685348Z",
+            "is_liked": false,
+            "is_bookmarked": false,
+            "user_reaction": null
+        },
+        {
+            "id": "10000000-0000-0000-0000-000000000025",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000004",
+                "username": "bob_photo",
+                "display_name": "Bob Photographer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "content": "Unicode test: 你好世界 🌍 مرحبا العالم Привет мир 🇯🇵🇫🇷🇧🇷 Emojis: 😀😂🤣😍🤔🙄😴💀👻🤖 Special: <script>alert('xss')</script> SQL: '; DROP TABLE posts; -- End of test.",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 0,
+            "comments_count": 1,
+            "reposts_count": 0,
+            "hashtags": [],
+            "created_at": "2026-11-16T21:43:40.354146Z",
+            "updated_at": "2026-11-18T09:43:54.700913Z",
+            "is_liked": false,
+            "is_bookmarked": false,
+            "user_reaction": null
+        },
+        {
+            "id": "10000000-0000-0000-0000-000000000024",
+            "author": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "content": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+            "image_url": null,
+            "is_pinned": false,
+            "is_deleted": false,
+            "parent_id": null,
+            "repost_type": null,
+            "visibility": "public",
+            "likes_count": 0,
+            "comments_count": 0,
+            "reposts_count": 0,
+            "hashtags": [],
+            "created_at": "2026-11-16T09:43:40.354146Z",
+            "updated_at": "2026-11-16T09:43:40.354146Z",
+            "is_liked": false,
+            "is_bookmarked": false,
+            "user_reaction": null
+        }
+    ],
+    "total": 25,
+    "page": 1,
+    "per_page": 5,
+    "pages": 5
+}

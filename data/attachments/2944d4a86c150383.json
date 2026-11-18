@@ -1,0 +1,32 @@
+{
+    "id": "dee9f3fe-4539-40d1-a5c6-be0744ab7bf9",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000006",
+        "username": "dave_quiet",
+        "display_name": "Dave Quiet",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "At arm know alone mean including together lose perhaps beat fund. #professor6312",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "0b5558b0-a7bc-45cf-b09f-40df8baace2a",
+            "name": "professor6312",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-18T09:43:56.536063Z",
+    "updated_at": "2026-11-18T09:43:56.536065Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

@@ -1,0 +1,19 @@
+{
+    "id": "fc265ca0-3885-4b90-a88b-f0e07fe02300",
+    "post_id": "dee9f3fe-4539-40d1-a5c6-be0744ab7bf9",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Both edge look table consider surface.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-18T09:43:57.058923Z",
+    "updated_at": "2026-11-18T09:43:57.058926Z",
+    "is_liked": false,
+    "replies_count": 0
+}
