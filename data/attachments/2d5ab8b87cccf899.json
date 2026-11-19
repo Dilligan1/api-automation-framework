@@ -1,0 +1,32 @@
+{
+    "id": "6b7bfa78-d09d-45b3-b885-da6c938ff460",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Across affect despite whatever create less either. #spring496",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "0805452a-c15c-4ca5-9d56-73ae46eb5506",
+            "name": "spring496",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-19T09:52:52.583537Z",
+    "updated_at": "2026-11-19T09:52:52.583539Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

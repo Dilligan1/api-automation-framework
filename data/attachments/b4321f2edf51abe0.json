@@ -1,0 +1,32 @@
+{
+    "id": "d74fbf9b-828e-4492-8909-04d36a99acf7",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Hit score their left they out positive between bank strong involve too. #environment1397",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "bba06585-ca83-45b6-992e-02f69ae7a4b8",
+            "name": "environment1397",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-19T09:52:52.916258Z",
+    "updated_at": "2026-11-19T09:52:52.916261Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
