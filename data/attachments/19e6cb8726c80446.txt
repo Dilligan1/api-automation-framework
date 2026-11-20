@@ -1,0 +1,1 @@
+http://localhost:8000/api/posts/7b9a70ae-ec6e-421d-aeaa-c4a421b89e85/like

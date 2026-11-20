@@ -1,0 +1,32 @@
+{
+    "id": "cbdcec5c-da01-432e-801e-f60e01596d6b",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Artist behavior parent want government hour act ahead huge education yet activity charge tend debate. #meet5143",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "3ed148b8-c1d6-4777-b12e-65f2ec8e8601",
+            "name": "meet5143",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-20T09:40:00.393269Z",
+    "updated_at": "2026-11-20T09:40:00.393272Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
