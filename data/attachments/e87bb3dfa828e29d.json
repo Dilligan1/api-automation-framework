@@ -1,0 +1,32 @@
+{
+    "id": "0beee908-a963-46b6-a137-38f911db63cd",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Travel quickly attorney official common police day Mrs themselves. #serious1064",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "e0c3fffe-9e6e-4ff8-b47b-dc3b51a9d79f",
+            "name": "serious1064",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-21T09:12:36.317239Z",
+    "updated_at": "2026-11-21T09:12:36.317242Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

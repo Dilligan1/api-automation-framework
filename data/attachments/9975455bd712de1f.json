@@ -1,0 +1,19 @@
+{
+    "id": "cef20faa-112e-40bc-9fee-4c68ee66bd5d",
+    "post_id": "619626d4-c87e-4860-a356-236a2b469892",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Discuss cultural stand he action city music conference open.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-21T09:12:35.875846Z",
+    "updated_at": "2026-11-21T09:12:35.875848Z",
+    "is_liked": false,
+    "replies_count": 0
+}

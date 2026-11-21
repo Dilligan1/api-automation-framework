@@ -1,0 +1,19 @@
+{
+    "id": "03dbce46-92a8-490e-8d31-fa3b7ad51a41",
+    "post_id": "8c690b7a-83ea-45ba-a842-dbd3eada4f5f",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Decade it article significant from thousand.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-21T09:12:35.879701Z",
+    "updated_at": "2026-11-21T09:12:35.879703Z",
+    "is_liked": false,
+    "replies_count": 0
+}

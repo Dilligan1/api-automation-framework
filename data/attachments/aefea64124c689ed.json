@@ -1,0 +1,32 @@
+{
+    "id": "eb880028-35a9-40f0-a795-5e3abcb06928",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Because road receive of measure happen if exactly individual shoulder help condition bad him director behavior. #stage8202",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "90aa36ab-aed7-4882-8854-1132fb6ca0f3",
+            "name": "stage8202",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-21T09:12:35.860659Z",
+    "updated_at": "2026-11-21T09:12:35.860661Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
