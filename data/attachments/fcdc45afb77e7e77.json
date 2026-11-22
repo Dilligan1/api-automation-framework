@@ -1,0 +1,32 @@
+{
+    "id": "0995b8a5-501e-4581-b588-5bb6502c20d4",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "During boy including nor education energy election glass care site stuff box. #system6900",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "556ea271-d67c-4175-80bf-7f22c42d8be2",
+            "name": "system6900",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-22T09:21:24.499546Z",
+    "updated_at": "2026-11-22T09:21:24.499552Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
