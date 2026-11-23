@@ -1,0 +1,19 @@
+{
+    "id": "79b9ae03-7bb7-410a-9f4a-e7f987ca5f1d",
+    "post_id": "646c73fe-c855-4df9-9cc9-30ee1ba3fd07",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Less measure key kid think.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-23T10:17:31.266180Z",
+    "updated_at": "2026-11-23T10:17:31.266182Z",
+    "is_liked": false,
+    "replies_count": 0
+}

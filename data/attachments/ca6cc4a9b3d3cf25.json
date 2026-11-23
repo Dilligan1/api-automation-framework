@@ -1,0 +1,32 @@
+{
+    "id": "9207b70d-88e5-4b48-98e5-1cd40c0c47c6",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Hair hour piece travel this evening challenge red rather how action game them wall. #little9831",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "d4b5f06a-1934-4eaf-a3b5-dd702d28fa3c",
+            "name": "little9831",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-23T10:17:31.024822Z",
+    "updated_at": "2026-11-23T10:17:31.024824Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
