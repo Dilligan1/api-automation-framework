@@ -1,0 +1,32 @@
+{
+    "id": "78c1bbfe-431d-4d6f-b9f6-b3b647b12cde",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000006",
+        "username": "dave_quiet",
+        "display_name": "Dave Quiet",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Stay live fine point into idea as. #hard676",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "f22342d5-c566-493f-a178-51b6f53f797c",
+            "name": "buy9831",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-24T11:59:53.797736Z",
+    "updated_at": "2026-11-24T11:59:54.353002Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

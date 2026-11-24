@@ -1,0 +1,32 @@
+{
+    "id": "551c3a45-177d-43de-8597-34fa7c370c9a",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Street test group hand will thank business exist although exactly business goal drug always shoulder. #personal2589",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "faa3b5e3-bf5b-4617-8a80-40124fcb06e6",
+            "name": "personal2589",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-24T11:59:54.382257Z",
+    "updated_at": "2026-11-24T11:59:54.382263Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}

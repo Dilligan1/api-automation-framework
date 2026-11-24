@@ -1,0 +1,19 @@
+{
+    "id": "6ba4ec0b-a14e-45c3-b105-88309d3d4240",
+    "post_id": "411ecd68-e98a-495c-a659-c1772be558cc",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Pull home might change protect stage government miss.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-24T11:59:54.261045Z",
+    "updated_at": "2026-11-24T11:59:54.261047Z",
+    "is_liked": false,
+    "replies_count": 0
+}

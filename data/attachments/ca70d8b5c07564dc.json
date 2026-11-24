@@ -1,0 +1,32 @@
+{
+    "id": "411ecd68-e98a-495c-a659-c1772be558cc",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Interest way represent play scene positive suggest. #certain1580",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "6ee6acd4-2520-4141-87a1-e0a537d3dad4",
+            "name": "send6744",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-24T11:59:53.583936Z",
+    "updated_at": "2026-11-24T11:59:54.340628Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
