@@ -1,0 +1,19 @@
+{
+    "id": "0e0e5d55-510d-4c0f-800b-4187f99ffcff",
+    "post_id": "1ec2d0df-26e8-4466-80bb-04fd84316680",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Know lot become bank soldier series capital himself talk.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-25T10:52:23.078736Z",
+    "updated_at": "2026-11-25T10:52:23.078739Z",
+    "is_liked": false,
+    "replies_count": 0
+}

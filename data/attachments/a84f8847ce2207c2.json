@@ -1,0 +1,32 @@
+{
+    "id": "4eddb3ac-adac-429e-b196-b1d222145c5d",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Lawyer open poor the investment quickly late field now start per ground. #child7181",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 1,
+    "comments_count": 1,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "79505b1f-667c-497c-94a1-a32f278157cd",
+            "name": "child7181",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-25T10:52:23.354978Z",
+    "updated_at": "2026-11-25T10:52:23.401828Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
