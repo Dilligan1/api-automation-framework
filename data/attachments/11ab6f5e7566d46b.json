@@ -1,0 +1,19 @@
+{
+    "id": "8439a5f5-d497-4349-9d3a-5e5cc4e83ef2",
+    "post_id": "9a4f0122-8589-4cd3-a28f-863410f8659c",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Democrat Mr identify explain popular few letter.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-26T10:28:03.478524Z",
+    "updated_at": "2026-11-26T10:28:03.478526Z",
+    "is_liked": false,
+    "replies_count": 0
+}

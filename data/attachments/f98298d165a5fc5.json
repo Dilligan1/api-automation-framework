@@ -1,0 +1,32 @@
+{
+    "id": "d7b32503-455d-4717-8cff-52c1811572a0",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000001",
+        "username": "admin",
+        "display_name": "Admin",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Whether story attack might number partner begin area little generation conference line. #reduce5517",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "857e6bed-2410-4086-985d-946302b7bca8",
+            "name": "reduce5517",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-26T10:28:02.405243Z",
+    "updated_at": "2026-11-26T10:28:02.405246Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
