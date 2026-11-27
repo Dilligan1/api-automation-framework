@@ -1,0 +1,19 @@
+{
+    "id": "58d9e33f-2134-4bde-ad6a-c06c03612148",
+    "post_id": "36efebdb-8654-4108-a2c4-ee77c6566864",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "World your decide power contain still attorney end itself specific.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-27T10:31:14.275335Z",
+    "updated_at": "2026-11-27T10:31:14.275336Z",
+    "is_liked": false,
+    "replies_count": 0
+}

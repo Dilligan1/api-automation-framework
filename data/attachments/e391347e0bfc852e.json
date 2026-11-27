@@ -1,0 +1,32 @@
+{
+    "id": "65bfeadd-7bf9-4953-8771-3b5d5314eb26",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Present like relate oil none miss deal mouth painting run maintain student among chance. #foreign7988",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "2efa9f0b-675a-4c52-8dbd-038ea8373a51",
+            "name": "foreign7988",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-27T10:31:14.568728Z",
+    "updated_at": "2026-11-27T10:31:14.568730Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
