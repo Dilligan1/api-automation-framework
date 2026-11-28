@@ -1,0 +1,203 @@
+{
+    "items": [
+        {
+            "id": "e3f9bfd8-fcd7-4d60-9cbc-b4911b965b1a",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000006",
+                "username": "dave_quiet",
+                "display_name": "Dave Quiet",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "follow",
+            "target_type": null,
+            "target_id": null,
+            "is_read": false,
+            "created_at": "2026-11-28T09:47:18.805595Z"
+        },
+        {
+            "id": "f29f1288-d05a-4646-8d51-1798a0de704e",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000004",
+                "username": "bob_photo",
+                "display_name": "Bob Photographer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "comment",
+            "target_type": "post",
+            "target_id": "531fa57e-a121-44ab-8bde-ed859e31f92a",
+            "is_read": false,
+            "created_at": "2026-11-28T09:47:18.788436Z"
+        },
+        {
+            "id": "04813a10-2622-4019-9399-61718e267f2a",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000004",
+                "username": "bob_photo",
+                "display_name": "Bob Photographer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "531fa57e-a121-44ab-8bde-ed859e31f92a",
+            "is_read": false,
+            "created_at": "2026-11-28T09:47:18.721239Z"
+        },
+        {
+            "id": "7511c602-2ae5-4145-a0c8-4f1fca781e7b",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000007",
+                "username": "eve_new",
+                "display_name": "Eve Newbie",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "comment",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000008",
+            "is_read": false,
+            "created_at": "2026-11-27T13:46:58.857842Z"
+        },
+        {
+            "id": "4e30daa7-7a0a-4597-8614-b957a92ab844",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000007",
+                "username": "eve_new",
+                "display_name": "Eve Newbie",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "follow",
+            "target_type": null,
+            "target_id": null,
+            "is_read": false,
+            "created_at": "2026-11-26T09:46:58.857842Z"
+        },
+        {
+            "id": "2223b3c2-eda1-4dcf-bce0-4b33522a8ca3",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000004",
+                "username": "bob_photo",
+                "display_name": "Bob Photographer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000005",
+            "is_read": false,
+            "created_at": "2026-11-19T09:46:58.857842Z"
+        },
+        {
+            "id": "40e7929f-4528-47fb-9a0b-525b164e7a0c",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000002",
+                "username": "moderator",
+                "display_name": "Moderator",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000005",
+            "is_read": true,
+            "created_at": "2026-11-19T09:46:58.857842Z"
+        },
+        {
+            "id": "1bbe5769-caf1-4207-8ce6-f0d3cc208c1d",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000004",
+                "username": "bob_photo",
+                "display_name": "Bob Photographer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000001",
+            "is_read": false,
+            "created_at": "2026-11-18T09:46:58.857842Z"
+        },
+        {
+            "id": "2a99ff82-7e48-4b5c-820b-6eef1836db26",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000005",
+                "username": "carol_writes",
+                "display_name": "Carol Writer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000001",
+            "is_read": false,
+            "created_at": "2026-11-18T09:46:58.857842Z"
+        },
+        {
+            "id": "0b53b2a7-f8be-463f-a281-46a0ca388cd2",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000001",
+                "username": "admin",
+                "display_name": "Admin",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "type": "like",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000001",
+            "is_read": true,
+            "created_at": "2026-11-18T09:46:58.857842Z"
+        },
+        {
+            "id": "6cc6a93f-2795-40b1-927a-b76bf120c8b0",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000005",
+                "username": "carol_writes",
+                "display_name": "Carol Writer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "comment",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000002",
+            "is_read": false,
+            "created_at": "2026-11-03T13:46:58.857842Z"
+        },
+        {
+            "id": "3f146e2d-1021-4aa6-9364-144ef3653f8a",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000005",
+                "username": "carol_writes",
+                "display_name": "Carol Writer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "comment",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000001",
+            "is_read": true,
+            "created_at": "2026-10-29T11:46:58.857842Z"
+        },
+        {
+            "id": "f236903a-181f-4753-a2d3-f8852c4702c2",
+            "actor": {
+                "id": "00000000-0000-0000-0000-000000000004",
+                "username": "bob_photo",
+                "display_name": "Bob Photographer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "type": "comment",
+            "target_type": "post",
+            "target_id": "10000000-0000-0000-0000-000000000001",
+            "is_read": true,
+            "created_at": "2026-10-29T10:46:58.857842Z"
+        }
+    ],
+    "total": 13,
+    "page": 1,
+    "per_page": 20,
+    "pages": 1
+}

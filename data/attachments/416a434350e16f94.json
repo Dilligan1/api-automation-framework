@@ -1,0 +1,19 @@
+{
+    "id": "7b0c416f-9051-4730-9adc-fc1565ac81f7",
+    "post_id": "494015f0-4df4-4fd4-813c-9bb385c732f5",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Grow attorney guy stock order also.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-28T09:47:18.093045Z",
+    "updated_at": "2026-11-28T09:47:18.093047Z",
+    "is_liked": false,
+    "replies_count": 0
+}

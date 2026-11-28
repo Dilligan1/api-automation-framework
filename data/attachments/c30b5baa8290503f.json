@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "id": "09512e60-1d14-48a5-b579-e9a11f6529bd",
+            "follower": {
+                "id": "00000000-0000-0000-0000-000000000003",
+                "username": "alice_dev",
+                "display_name": "Alice Developer",
+                "avatar_url": null,
+                "is_verified": true
+            },
+            "status": "pending",
+            "created_at": "2026-11-28T09:47:18.709052Z"
+        },
+        {
+            "id": "1f334304-e6b1-4533-ba25-96678bc84780",
+            "follower": {
+                "id": "00000000-0000-0000-0000-000000000005",
+                "username": "carol_writes",
+                "display_name": "Carol Writer",
+                "avatar_url": null,
+                "is_verified": false
+            },
+            "status": "pending",
+            "created_at": "2026-10-09T09:46:58.857842Z"
+        }
+    ],
+    "total": 2,
+    "page": 1,
+    "per_page": 20,
+    "pages": 1
+}

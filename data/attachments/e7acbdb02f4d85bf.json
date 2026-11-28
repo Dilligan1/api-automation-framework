@@ -1,0 +1,19 @@
+{
+    "id": "d3094244-785e-4d19-a29b-852c167d6962",
+    "post_id": "ccd24694-25fb-461c-81cf-40dd7911238b",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "username": "alice_dev",
+        "display_name": "Alice Developer",
+        "avatar_url": null,
+        "is_verified": true
+    },
+    "content": "Contain chance yourself one soon cold.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-28T09:47:18.094094Z",
+    "updated_at": "2026-11-28T09:47:18.094097Z",
+    "is_liked": false,
+    "replies_count": 0
+}

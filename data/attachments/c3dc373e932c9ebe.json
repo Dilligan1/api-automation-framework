@@ -1,0 +1,19 @@
+{
+    "id": "55c63224-a39e-4a17-a11a-d537c6b34386",
+    "post_id": "531fa57e-a121-44ab-8bde-ed859e31f92a",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Play fact candidate meeting matter rather man thus include.",
+    "parent_comment_id": null,
+    "is_deleted": false,
+    "likes_count": 0,
+    "created_at": "2026-11-28T09:47:18.791062Z",
+    "updated_at": "2026-11-28T09:47:18.791063Z",
+    "is_liked": false,
+    "replies_count": 0
+}

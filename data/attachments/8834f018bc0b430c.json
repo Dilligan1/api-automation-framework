@@ -1,0 +1,32 @@
+{
+    "id": "b1ee5fd1-fe0e-4c64-8233-00de250db6cd",
+    "author": {
+        "id": "00000000-0000-0000-0000-000000000004",
+        "username": "bob_photo",
+        "display_name": "Bob Photographer",
+        "avatar_url": null,
+        "is_verified": false
+    },
+    "content": "Push like tough fund there discussion world own affect. #time3584",
+    "image_url": null,
+    "is_pinned": false,
+    "is_deleted": false,
+    "parent_id": null,
+    "repost_type": null,
+    "visibility": "public",
+    "likes_count": 0,
+    "comments_count": 0,
+    "reposts_count": 0,
+    "hashtags": [
+        {
+            "id": "58c9a0a5-1fd9-4edf-b2cf-19ad9ac9fbc1",
+            "name": "time3584",
+            "posts_count": 1
+        }
+    ],
+    "created_at": "2026-11-28T09:47:18.338258Z",
+    "updated_at": "2026-11-28T09:47:18.338261Z",
+    "is_liked": false,
+    "is_bookmarked": false,
+    "user_reaction": null
+}
